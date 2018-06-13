@@ -1,0 +1,9 @@
+1	en	News & Announcements	http://community.blackdesertonline.com/index.php?forums/181/index.rss
+2	en	Patch Notes	http://community.blackdesertonline.com/index.php?forums/5/index.rss
+3	en	Events	http://community.blackdesertonline.com/index.php?forums/6/index.rss
+4	de	Neuigkeiten & Ankündigungen	http://community.blackdesertonline.com/index.php?forums/186/index.rss
+5	de	Patchnotes	http://community.blackdesertonline.com/index.php?forums/61/index.rss
+6	de	Ereignisse	http://community.blackdesertonline.com/index.php?forums/62/index.rss
+7	fr	Nouveautés & Annonces	http://community.blackdesertonline.com/index.php?forums/187/index.rss
+8	fr	Notes de Patch	http://community.blackdesertonline.com/index.php?forums/117/index.rss
+9	fr	Évènements	http://community.blackdesertonline.com/index.php?forums/199/index.rss

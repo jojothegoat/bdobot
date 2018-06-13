@@ -1,0 +1,1831 @@
+2	193	https://www.blackdesertonline.com/news/view/193?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Urgent Maintenance	Dear Players,\
+\
+We will perform our maintenance as follows:\
+\
+Date: Thursday, 11.08.2016\
+\
+\
+\
+Duration: 2h\
+Server Down:\
+Server Up: \
+\
+Global\
+14:00 UTC\
+16:00 UTC\
+\
+West...	2016-08-22 14:22:55	2016-08-11 13:00:00
+3	190	https://www.blackdesertonline.com/news/view/190?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 10.08.2016\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+Global\
+08:00 UTC\
+13:00 UTC...	2016-08-22 14:22:55	2016-08-09 15:00:00
+4	187	https://www.blackdesertonline.com/news/view/187?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 03.08.2016\
+\
+NA Server\
+\
+\
+Duration: 12h\
+Server Down:\
+Server Up: \
+\
+Global\
+08:00 UTC...	2016-08-22 14:22:55	2016-08-02 14:00:00
+5	184	https://www.blackdesertonline.com/news/view/184?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Urgent Maintenance	Dear Players,\
+\
+We will perform our maintenance as follows:\
+\
+Date: Friday, 22.06.2016\
+\
+\
+\
+Duration: 2h\
+Server Down:\
+Server Up: \
+\
+Global\
+08:00 UTC\
+10:00 UTC\
+\
+West C...	2016-08-22 14:22:55	2016-07-21 14:00:00
+7	196	https://www.blackdesertonline.com/news/view/196?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/0811_gamescom_thumb.png	Black Desert at Gamescom!	Black Desert Online is present in force at this year’s GamesCom.\
+\
+Compete against other players for cool prizes during our stage shows or try out the new Awakening weapons at on...	2016-08-22 14:36:26	2016-08-11 13:00:00
+8	199	https://www.blackdesertonline.com/news/view/199?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 24.08.2016\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 UTC...	2016-08-24 11:27:05	2016-08-23 13:00:00
+9	202	https://www.blackdesertonline.com/news/view/202?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 31.08.2016\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+15:00 UTC...	2016-08-31 15:11:05	2016-08-30 14:00:00
+10	205	https://www.blackdesertonline.com/news/view/205?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/0824_awakening_thumb.png	WARRIOR AWAKENED	A Goyen Brother Holds Up the Sword of Faith\
+\
+Today we are excited to announce the start of our bi-weekly Awakening Series, starting with the Warrior Class! Unlock your Greatswor...	2016-08-31 15:05:05	2016-08-31 15:00:00
+11	208	https://www.blackdesertonline.com/news/view/208?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 07.09.2016\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 UTC...	2016-09-07 12:47:08	2016-09-06 14:00:00
+12	217	https://www.blackdesertonline.com/news/view/217?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 14.09.2016\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 UTC...	2016-09-14 13:13:05	2016-09-13 12:00:00
+13	220	https://www.blackdesertonline.com/news/view/220?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/0914_sorceress_thumb.jpg	SORCERESS AWAKENED	Greetings Adventurers,\
+\
+We’re pleased to announce the continuation of our bi-weekly Awakening release schedule with the introduction of the Sorceress Awakening. Upon reaching le...	2016-09-14 13:02:05	2016-09-14 12:00:00
+14	223	https://www.blackdesertonline.com/news/view/223?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1_2.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 21.09.2016\
+\
+\
+\
+Duration: 3h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+11:00 U...	2016-10-11 17:39:07	2016-09-20 13:00:00
+15	226	https://www.blackdesertonline.com/news/view/226?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1_2.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 28.09.2016\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2016-10-11 17:39:07	2016-09-27 15:00:00
+16	229	https://www.blackdesertonline.com/news/view/229?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20160928/20160928_berserker_thumb.png	BERSERKER AWAKENED	Greetings Adventurers!\
+\
+The next class within our lineup of Awakening releases is upon us. Behold, the power of the Awakened Berserker! \
+\
+In addition to the devastation that...	2016-09-28 11:30:06	2016-09-28 11:00:00
+17	232	https://www.blackdesertonline.com/news/view/232?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1_2.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 05.10.2016\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+15:00 U...	2016-10-11 17:39:07	2016-10-04 12:00:00
+18	235	https://www.blackdesertonline.com/news/view/235?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1_2.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 12.10.2016\
+\
+\
+\
+Duration: 8h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+16:00 U...	2016-10-12 16:14:06	2016-10-11 14:00:00
+19	238	https://www.blackdesertonline.com/news/view/238?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161012/20161012_ranger_thumb_2.png	RANGER AWAKENED	Greetings Adventurers,\
+\
+Today, we introduce the Awakened Ranger and the story behind her power. \
+\
+Ages ago, the children of the Goddess Sylvia, Ganelle and Vedir, descended ...	2016-10-12 16:09:06	2016-10-12 16:00:00
+20	241	https://www.blackdesertonline.com/news/view/241?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1_2.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 19.10.2016\
+\
+\
+\
+Duration: 6h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+14:00 U...	2016-10-19 14:32:06	2016-10-18 12:00:00
+21	244	https://www.blackdesertonline.com/news/view/244?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/79_thumb_v1_2.png	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 26.10.2016\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+15:00 U...	2016-11-08 14:27:13	2016-10-25 14:00:00
+22	247	https://www.blackdesertonline.com/news/view/247?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161029/tamer_main.jpg	Tamer Awakening Weapon “Celestial Bo Staff”	Greetings, fellow adventurers!\
+\
+Today we present the trailer for the Tamer Awakening, the fifth class in our Awakening Series.\
+\
+Go back in time with Tamer and her mystical b...	2016-10-26 16:00:05	2016-10-26 16:00:00
+23	250	https://www.blackdesertonline.com/news/view/250?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 02.11.2016\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+16:00 U...	2016-11-02 15:36:10	2016-11-01 14:00:00
+24	253	https://www.blackdesertonline.com/news/view/253?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 09.11.2016\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+13:00 U...	2016-11-09 14:00:07	2016-11-08 14:00:00
+25	256	https://www.blackdesertonline.com/news/view/256?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161109/valkyrie_thumb.png	Valkyrie’s Awakening Weapon “Lancia”	Greetings Adventurers!\
+\
+Today, we are thrilled to unveil the sixth Awakening, in our Awakening Series: The Lancia of Valkyries\
+\
+Behold the perfect balance of offense and def...	2016-11-09 14:00:07	2016-11-09 14:00:00
+26	259	https://www.blackdesertonline.com/news/view/259?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161109/newworld_thumb.png	Introducing the ‘New World’	Greetings, adventurers.\
+\
+Today, we would like to announce a significant change that will come to Black Desert Online on November 30th.\
+We are thrilled to be able to introduce...	2016-11-10 10:16:07	2016-11-10 10:00:00
+27	262	https://www.blackdesertonline.com/news/view/262?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 16.11.2016\
+\
+\
+\
+Duration: 6h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+15:00 U...	2016-11-16 14:35:06	2016-11-15 16:00:00
+28	265	https://www.blackdesertonline.com/news/view/265?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161118/guestpass_thumb.png	Refer your Friends & Get Rewards!	Greetings Adventurers,\
+\
+We’re excited to bring some great news! As many of you know, our game packages included a limited quantity of Guest Passes to hand out at your leisure....	2016-11-18 17:49:05	2016-11-18 17:00:00
+29	268	https://www.blackdesertonline.com/news/view/268?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 23.11.2016\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+14:00 U...	2016-11-23 20:43:04	2016-11-22 16:00:00
+30	271	https://www.blackdesertonline.com/news/view/271?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161123/musa_maehwa_thumb.png	Musa’s Crescent Blade and Maehwa’s Kerispear Updat	Greetings Adventurers,\
+\
+The wait is over, check out the combat trailer for Musa and Maehwa below with their glorious awakening weapons!\
+\
+Behold the prowess of Musa wielding ...	2016-12-20 15:29:06	2016-11-23 14:00:00
+31	274	https://www.blackdesertonline.com/news/view/274?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+Tomorrow, we will be implementing the New World update which means maintenance is quite different from our usual weekly maintenance. \
+\
+Check below for the loc...	2016-12-01 11:38:05	2016-11-29 15:00:00
+32	277	https://www.blackdesertonline.com/news/view/277?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 07.12.2016\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+15:00 U...	2016-12-07 15:03:05	2016-12-06 15:00:00
+33	280	https://www.blackdesertonline.com/news/view/280?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161207/ninja_kuno_thumb.jpg	Ninja's Sura Katana and Kunoichi’s Sah Chakram Upd	Greetings, adventurers. \
+Following the unveiling of Ninja and Kunoichi’s majestic weapons, be awed at the sight of Ninja effortlessly wielding six swords, called Sura Katana, h...	2016-12-27 15:17:04	2016-12-07 15:00:00
+34	283	https://www.blackdesertonline.com/news/view/283?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 14.12.2016\
+\
+\
+\
+Duration: 8h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+17:00 U...	2016-12-14 18:12:06	2016-12-13 16:00:00
+35	286	https://www.blackdesertonline.com/news/view/286?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 21.12.2016\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+14:00 U...	2016-12-21 14:06:05	2016-12-20 15:00:00
+36	289	https://www.blackdesertonline.com/news/view/289?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20161221/wizard_witch_thumb.jpg	Witch & Wizard Awakening Update	Greetings adventurers. \
+The last set of awakenings has finally reached the world of Black Desert Online!\
+\
+Witch and Wizard can now commune with the primal power of the elemen...	2016-12-21 14:03:05	2016-12-21 14:00:00
+37	292	https://www.blackdesertonline.com/news/view/292?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Urgent Maintenance	Dear Players,\
+\
+We will perform our maintenance as follows:\
+\
+Date: Thursday, 22.12.2016\
+\
+\
+\
+Duration: 3h\
+Server Down:\
+Server Up: \
+\
+Global\
+09:00 UTC\
+12:00 UTC\
+\
+West...	2016-12-27 15:00:06	2016-12-22 08:30:00
+38	295	https://www.blackdesertonline.com/news/view/295?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 28.12.2016\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+16:00 U...	2016-12-28 17:09:04	2016-12-27 15:00:00
+39	298	https://www.blackdesertonline.com/news/view/298?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 04.01.2017\
+\
+\
+\
+Duration: 3h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+12:00 U...	2017-01-04 12:03:09	2017-01-03 15:00:00
+40	301	https://www.blackdesertonline.com/news/view/301?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 11.01.2017\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+16:00 U...	2017-01-11 16:02:03	2017-01-10 16:00:00
+41	304	https://www.blackdesertonline.com/news/view/304?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 18.01.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+14:00 U...	2017-01-18 14:05:06	2017-01-17 16:00:00
+42	307	https://www.blackdesertonline.com/news/view/307?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 25.01.2017\
+\
+\
+\
+Duration: 6h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+15:00 U...	2017-01-25 15:20:06	2017-01-24 16:30:00
+43	310	https://www.blackdesertonline.com/news/view/310?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Urgent Maintenance only EU	Dear Players,\
+\
+We will perform our maintenance as follows:\
+\
+Date: Thursday, 26.01.2017\
+\
+\
+\
+Duration: 1h\
+Server Down:\
+Server Up: \
+\
+Global\
+09:00 UTC\
+10:00 UTC\
+\
+West...	2017-02-01 13:03:05	2017-01-25 18:00:00
+44	313	https://www.blackdesertonline.com/news/view/313?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 01.02.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+13:00 U...	2017-02-01 13:02:07	2017-01-31 15:30:00
+45	316	https://www.blackdesertonline.com/news/view/316?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/margoria/margoria_thumb.png	Dawn of Naval Warfare: Margoria Expansion	Hello, Adventurers!\
+\
+By now you’ve had your ups and downs and seen numerous updates in our journey together.\
+\
+Do you remember your first fishing rod for the Velia coastline?...	2017-02-02 18:34:06	2017-02-02 18:00:00
+46	320	https://www.blackdesertonline.com/news/view/320?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 08.02.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+14:00 U...	2017-02-08 14:02:05	2017-02-07 15:00:00
+47	323	https://www.blackdesertonline.com/news/view/323?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 15.02.2017\
+\
+\
+\
+Duration: 6h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+15:00 U...	2017-02-15 15:02:06	2017-02-14 15:00:00
+48	326	https://www.blackdesertonline.com/news/view/326?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 22.02.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+13:00 U...	2017-02-27 10:38:06	2017-02-21 15:00:00
+49	329	https://www.blackdesertonline.com/news/view/329?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Urgent Maintenance	Dear Players,\
+\
+We will perform our maintenance as follows::\
+\
+Date: Thursday, 23.02.2017\
+\
+\
+\
+Duration: 2h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+11:00 UTC\
+\
+...	2017-02-27 10:38:06	2017-02-22 16:00:00
+50	332	https://www.blackdesertonline.com/news/view/332?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/darkknight/dark_knight_thumb.png	The Secret Society Veiled and Forgotten in History	Greetings all adventurers of the Black Desert.\
+Long story short, Dark Knight, the most anticipated new class has finally arrived.\
+\
+Trace back to the times before history ...	2017-03-01 15:58:06	2017-02-23 16:00:00
+51	335	https://www.blackdesertonline.com/news/view/335?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 01.03.2017\
+\
+\
+\
+Duration: 6h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+16:00 U...	2017-03-01 16:04:06	2017-02-28 16:00:00
+52	338	https://www.blackdesertonline.com/news/view/338?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/infographic/1st_info_thumb.jpg	OUR FIRST YEAR, EU vs NA	To commemorate our 1st year, we've prepared an Infographic of EU/NA region.\
+Check out all the differences now!	2017-03-03 10:34:06	2017-03-03 10:00:00
+53	341	https://www.blackdesertonline.com/news/view/341?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 08.03.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+14:00 U...	2017-03-08 13:26:05	2017-03-07 16:00:00
+54	344	https://www.blackdesertonline.com/news/view/344?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170313/extention_thumb_en.jpg	SALE EXTENSION	Greetings Adventurer, \
+\
+Due to a technical error, some of you have not been able to purchase the Traveler’s Package or Explorer package during our sales period which officiall...	2017-03-16 09:16:05	2017-03-13 11:00:00
+55	347	https://www.blackdesertonline.com/news/view/347?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 15.03.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+13:00 U...	2017-03-15 14:56:05	2017-03-14 15:00:00
+56	350	https://www.blackdesertonline.com/news/view/350?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/infographic/1st_info_thumb.jpg	OUR FIRST YEAR, EU vs NA	To commemorate our 1st year, we've prepared an Infographic of EU/NA region.\
+Check out all the differences now!	2017-03-15 14:01:06	2017-03-03 10:00:00
+57	353	https://www.blackdesertonline.com/news/view/353?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 22.03.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:00 UTC\
+14:00 U...	2017-03-22 13:04:05	2017-03-21 15:00:00
+58	356	https://www.blackdesertonline.com/news/view/356?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 29.03.2017\
+\
+\
+\
+Duration: 6h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+14:00 U...	2017-03-29 14:06:05	2017-03-28 14:00:00
+59	359	https://www.blackdesertonline.com/news/view/359?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/whisky/whisky_thumb.jpg	Introducing 'Black Spirit'	'Black Spirit'\
+Limited edition whisky to celebrate Black Desert's anniversary available soon.\
+\
+\
+\
+\
+\
+To celebrate Black Desert Online’s first anniversary Pearl Abyss and ...	2017-04-01 08:00:05	2017-04-01 08:00:00
+60	362	https://www.blackdesertonline.com/news/view/362?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 05.04.2017\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+15:00 U...	2017-04-07 16:09:05	2017-04-04 14:00:00
+61	365	https://www.blackdesertonline.com/news/view/365?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/announcement/announcement_thumb_en.jpg	Dark Knight Awakening + New Content Announcement	Greetings adventurers,\
+\
+The Dark Knight’s awakening will be launched this coming Wednesday after the regular weekly maintenance. \
+\
+The Dark Knight has proven to be one of th...	2017-04-07 10:24:05	2017-04-07 10:00:00
+62	368	https://www.blackdesertonline.com/news/view/368?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 12.04.2017\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+15:00 U...	2017-04-12 13:04:05	2017-04-11 14:00:00
+63	371	https://www.blackdesertonline.com/news/view/371?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/dk_awakening/dk_awakening_thumb.jpg	Dark Knight’s Awakening Weapon, Vediant	Greetings Adventurers.  \
+\
+The awakening of the Dark Knight, the 13th class of Black Desert Online, has finally emerged from the darkness.\
+ \
+The destructiveness and myste...	2017-04-12 07:30:05	2017-04-12 07:30:00
+64	374	https://www.blackdesertonline.com/news/view/374?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 19.04.2017\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+15:00 U...	2017-05-16 09:12:59	2017-04-18 15:00:00
+65	377	https://www.blackdesertonline.com/news/view/377?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 26.04.2017\
+\
+\
+\
+Duration: 7h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+15:00 U...	2017-05-16 09:12:59	2017-04-25 15:00:00
+66	380	https://www.blackdesertonline.com/news/view/380?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Urgent Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Thursday, 27.04.2017\
+\
+\
+\
+Duration: 2h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+06:00 UTC\
+08:00 UT...	2017-05-16 09:12:59	2017-04-26 17:00:00
+67	383	https://www.blackdesertonline.com/news/view/383?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 03.05.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 U...	2017-05-16 09:12:59	2017-05-02 14:00:00
+68	386	https://www.blackdesertonline.com/news/view/386?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 10.05.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2017-05-16 09:12:59	2017-05-09 14:00:00
+69	387	https://www.blackdesertonline.com/news/view/387?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 10.05.2017\
+\
+\
+\
+Dauer: 5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-05-30 14:40:06	0000-00-00 00:00:00
+70	384	https://www.blackdesertonline.com/news/view/384?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 03.05.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-05-24 15:58:06	0000-00-00 00:00:00
+71	381	https://www.blackdesertonline.com/news/view/381?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Dringende Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Donnerstag, 27.04.2017\
+\
+\
+\
+Dauer: 2h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+06:0...	2017-05-16 09:14:54	2017-04-26 17:00:00
+72	378	https://www.blackdesertonline.com/news/view/378?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 26.04.2017\
+\
+\
+\
+Dauer: 7h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-05-16 09:15:04	2017-04-25 15:00:00
+73	375	https://www.blackdesertonline.com/news/view/375?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 19.04.2017\
+\
+\
+\
+Dauer: 7h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-05-16 09:15:04	2017-04-18 15:00:00
+74	388	https://www.blackdesertonline.com/news/view/388?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 10.05.2017 \
+\
+\
+\
+Durée: 5h\
+Mise hors ligne du serveur:\
+M...	2017-05-30 14:40:06	0000-00-00 00:00:00
+75	385	https://www.blackdesertonline.com/news/view/385?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 03.05.2017 \
+\
+\
+\
+Durée: 4h\
+Mise hors ligne du serveur:\
+M...	2017-05-24 15:58:06	0000-00-00 00:00:00
+76	382	https://www.blackdesertonline.com/news/view/382?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Urgente	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Jeudi, 27.04.2017 \
+\
+\
+\
+Durée: 2h\
+Mise hors ligne du serveur:\
+Mise...	2017-05-24 15:49:06	0000-00-00 00:00:00
+77	379	https://www.blackdesertonline.com/news/view/379?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 26.04.2017 \
+\
+\
+\
+Durée: 7h\
+Mise hors ligne du serveur:\
+M...	2017-05-23 15:33:05	0000-00-00 00:00:00
+78	376	https://www.blackdesertonline.com/news/view/376?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 19.04.2017 \
+\
+\
+\
+Durée: 7h\
+Mise hors ligne du serveur:\
+M...	2017-05-16 14:59:07	0000-00-00 00:00:00
+79	389	https://www.blackdesertonline.com/news/view/389?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 17.05.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2017-05-17 13:02:08	2017-05-16 15:00:00
+80	390	https://www.blackdesertonline.com/news/view/390?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 17.05.2017\
+\
+\
+\
+Dauer: 5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-06-06 15:02:07	0000-00-00 00:00:00
+81	391	https://www.blackdesertonline.com/news/view/391?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 17.05.2017 \
+\
+\
+\
+Durée: 5h\
+Mise hors ligne du serveur:\
+M...	2017-06-06 15:02:07	0000-00-00 00:00:00
+82	392	https://www.blackdesertonline.com/news/view/392?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 5.24.2017\
+\
+\
+\
+Duration: 6h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+14:00 UT...	2017-05-31 12:24:08	2017-05-23 14:00:00
+83	393	https://www.blackdesertonline.com/news/view/393?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 24.05.2017\
+\
+\
+\
+Dauer: 6h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-06-13 15:29:07	0000-00-00 00:00:00
+84	394	https://www.blackdesertonline.com/news/view/394?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 24.05.2017 \
+\
+\
+\
+Durée: 6h\
+Mise hors ligne du serveur:\
+M...	2017-06-13 15:29:07	0000-00-00 00:00:00
+85	398	https://www.blackdesertonline.com/news/view/398?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/announcement/announcement_thumb_en.jpg	Notification of Changes to the Terms of Use	Under section 18 of the Terms of Use, be advised that as of 24th of May 2017 the Terms of Use have changed.\
+\
+These changes are primarily clarifications of existing terms, specif...	2017-05-24 15:50:06	2017-05-24 15:00:00
+86	399	https://www.blackdesertonline.com/news/view/399?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/announcement/announcement_thumb_en.jpg	Benachrichtigung über die Änderungen der Nutzungsb	Wie unter Abschnitt 18 der Nutzungsbedingungen angegeben, möchten wir Sie über die geringfügige Änderungen informieren, die ab dem 24.05.2017 gelten.\
+\
+Bei den Änderungen handelt...	2017-06-20 14:50:08	0000-00-00 00:00:00
+87	400	https://www.blackdesertonline.com/news/view/400?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/announcement/announcement_thumb_en.jpg	Notification de changement des conditions d'utilis	Dans l'accord de la section 18 des conditions d'utilisation, merci de noter les changements dans les conditions d'utilisation effectifs en date du 24 Mai 2017. \
+\
+Ces changements...	2017-06-20 14:50:08	0000-00-00 00:00:00
+88	395	https://www.blackdesertonline.com/news/view/395?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/striker_thumb.jpg	A True Strike that Binds the Earth and Sky!	Greetings Adventurers.   \
+\
+Today we proudly present the 14th class to all awaited fans!\
+\
+A stalwart figure trained from street combat and countless brawls, the Striker will domi...	2017-05-24 16:00:49	2017-05-24 16:00:00
+89	397	https://www.blackdesertonline.com/news/view/397?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/striker_thumb.jpg	Ein Streiter für Gerechtigkeit auf der Suche nach 	Grüße Abenteurer!   \
+\
+Heute präsentieren wir Euch endlich die 14. Klasse von Black Desert Online, den Streiter!\
+\
+Ein unerschütterlicher Kämpfer, der erste Kampferfahrungen auf d...	2017-05-24 19:07:05	0000-00-00 00:00:00
+90	396	https://www.blackdesertonline.com/news/view/396?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/striker_thumb.jpg	Un combattant entre Ciel et Terre !	Salutations aventurier(e)s,   \
+\
+Nous sommes heureux de présenter la 14e classe à tous nos fans !\
+\
+Figure vigoureuse élevée dans les combats de rues et les bagarres incessantes, ...	2017-05-24 19:07:05	0000-00-00 00:00:00
+91	401	https://www.blackdesertonline.com/news/view/401?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/striker_thumb.jpg	A True Strike that Binds the Earth and Sky!	Greetings Adventurers.   \
+\
+Today we proudly present the 14th class to all awaited fans!\
+\
+A stalwart figure trained from street combat and countless brawls, the Striker will domi...	2017-05-24 19:08:05	2017-05-24 16:00:00
+92	403	https://www.blackdesertonline.com/news/view/403?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/striker_thumb.jpg	Ein Streiter für Gerechtigkeit auf der Suche nach 	Grüße Abenteurer!   \
+\
+Heute präsentieren wir Euch endlich die 14. Klasse von Black Desert Online, den Streiter!\
+\
+Ein unerschütterlicher Kämpfer, der erste Kampferfahrungen auf d...	2017-06-21 12:59:07	0000-00-00 00:00:00
+93	402	https://www.blackdesertonline.com/news/view/402?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/striker_thumb.jpg	Un combattant entre Ciel et Terre !	Salutations aventurier(e)s,   \
+\
+Nous sommes heureux de présenter la 14e classe à tous nos fans !\
+\
+Figure vigoureuse élevée dans les combats de rues et les bagarres incessantes, ...	2017-06-21 12:59:07	0000-00-00 00:00:00
+94	404	https://www.blackdesertonline.com/news/view/404?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 31.5.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 UT...	2017-05-31 12:24:08	2017-05-30 14:00:00
+95	405	https://www.blackdesertonline.com/news/view/405?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 31.05.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-06-27 14:33:12	0000-00-00 00:00:00
+96	406	https://www.blackdesertonline.com/news/view/406?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 31.05.2017 \
+\
+\
+\
+Durée: 4h\
+Mise hors ligne du serveur:\
+M...	2017-06-27 14:33:12	0000-00-00 00:00:00
+97	407	https://www.blackdesertonline.com/news/view/407?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 07.06.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 U...	2017-06-07 12:02:05	2017-06-06 15:00:00
+98	408	https://www.blackdesertonline.com/news/view/408?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 07.06.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-06-30 13:18:08	0000-00-00 00:00:00
+99	409	https://www.blackdesertonline.com/news/view/409?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 07.06.2017 \
+\
+\
+\
+Durée: 4h\
+Mise hors ligne du serveur:\
+M...	2017-06-30 13:18:08	0000-00-00 00:00:00
+100	410	https://www.blackdesertonline.com/news/view/410?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 14.06.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2017-06-14 12:43:07	2017-06-13 15:00:00
+101	411	https://www.blackdesertonline.com/news/view/411?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 14.06.2017\
+\
+\
+\
+Dauer: 5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-07-04 14:12:05	0000-00-00 00:00:00
+102	412	https://www.blackdesertonline.com/news/view/412?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 14.06.2017 \
+\
+\
+\
+Durée: 5h\
+Mise hors ligne du serveur:\
+M...	2017-07-04 14:12:05	0000-00-00 00:00:00
+103	413	https://www.blackdesertonline.com/news/view/413?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 21.06.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2017-06-21 13:02:14	2017-06-20 14:30:00
+104	414	https://www.blackdesertonline.com/news/view/414?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 21.06.2017\
+\
+\
+\
+Dauer: 5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-07-11 14:42:06	0000-00-00 00:00:00
+105	415	https://www.blackdesertonline.com/news/view/415?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 21.06.2017 \
+\
+\
+\
+Durée: 5h\
+Mise hors ligne du serveur:\
+M...	2017-07-11 14:42:06	0000-00-00 00:00:00
+106	416	https://www.blackdesertonline.com/news/view/416?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/thumb.jpg	Awaken the Striker Now!	Enjoying the thrilling kicks and punches of the Striker yet? \
+ \
+Get ready for a whole new chapter as the Awakening of the Striker is right under our noses! \
+T...	2017-06-21 13:00:13	2017-06-21 13:00:00
+107	417	https://www.blackdesertonline.com/news/view/417?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/thumb.jpg	Die Erweckung des Streiters!	 \
+Euch macht der waffenlose Kampf mit dem Streiter Spaß? \
+ \
+Dann macht Euch bereit für den nächsten Schritt mit der Erweckung des Streiters!&nb...	2017-07-12 15:30:07	0000-00-00 00:00:00
+108	418	https://www.blackdesertonline.com/news/view/418?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/striker/thumb.jpg	Éveillez le Poings Furieux maintenant!	 \
+Vous profitez déjà des coups de pieds et de poings du Poings Furieux ? \
+ \
+Préparez-vous pour un tout nouveau chapitre avec l’arriv...	2017-07-12 15:30:07	0000-00-00 00:00:00
+109	419	https://www.blackdesertonline.com/news/view/419?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 28.06.2017\
+\
+\
+\
+Duration: 5h 30min\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+1...	2017-06-28 13:32:08	2017-06-27 14:00:00
+110	420	https://www.blackdesertonline.com/news/view/420?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 28.06.2017\
+\
+\
+\
+Dauer: 5 Stunden 30 Minuten\
+Server wird geschlossen:\
+Server wird geöffnet: \
+...	2017-07-18 15:26:09	0000-00-00 00:00:00
+111	421	https://www.blackdesertonline.com/news/view/421?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 28.06.2017 \
+\
+\
+\
+Durée: 5h 30min\
+Mise hors ligne du serve...	2017-07-18 15:26:09	0000-00-00 00:00:00
+112	422	https://www.blackdesertonline.com/news/view/422?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/shultz/thumb.jpg	Rise and Grind! Introducing Shultz Guard Post	Greetings Adventurers!\
+ \
+To expand even greater opportunities for all Adventurers in our vast world of Black Desert Online, we have been working on revamping the Sausan G...	2017-06-30 13:19:08	2017-06-30 12:00:00
+113	423	https://www.blackdesertonline.com/news/view/423?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/shultz/thumb.jpg	Neue Gegner! Vorstellung der Shultzwachen	Grüße Abenteurer!\
+ \
+Um Euch noch mehr Möglichkeiten in der riesigen Welt von Black Desert Online zu bieten, haben wir die Sausan-Garnison überarbeite...	2017-07-25 15:00:06	0000-00-00 00:00:00
+114	424	https://www.blackdesertonline.com/news/view/424?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/shultz/thumb.jpg	C’est l’heure de Farmer ! Introduction : le poste 	Salutations Aventurier(e)s !\
+ \
+Afin d’étendre l’éventail d’opportunités pour tous nos aventuriers parcourant le monde de Black Dese...	2017-07-25 15:00:06	0000-00-00 00:00:00
+115	425	https://www.blackdesertonline.com/news/view/425?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 05.07.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2017-07-05 13:02:09	2017-07-04 14:00:00
+116	426	https://www.blackdesertonline.com/news/view/426?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 05.07.2017\
+\
+\
+\
+Dauer: 5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-07-26 12:43:05	0000-00-00 00:00:00
+117	427	https://www.blackdesertonline.com/news/view/427?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 05.07.2017 \
+\
+\
+\
+Durée: 5h\
+Mise hors ligne du serveur:\
+M...	2017-07-26 12:43:05	0000-00-00 00:00:00
+118	428	https://www.blackdesertonline.com/news/view/428?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 12.07.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 U...	2017-07-12 13:03:38	2017-07-11 14:00:00
+119	429	https://www.blackdesertonline.com/news/view/429?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 12.07.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-08-01 15:08:04	0000-00-00 00:00:00
+120	430	https://www.blackdesertonline.com/news/view/430?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 12.07.2017 \
+\
+\
+\
+Durée: 4h\
+Mise hors ligne du serveur:\
+M...	2017-08-01 15:08:04	0000-00-00 00:00:00
+121	431	https://www.blackdesertonline.com/news/view/431?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/terrmian/thumb.jpg	Terrmian Waterpark Grand Opening!	Terrmian Waterpark Grand Opening! Items and quests related to the Terrmian Festival have been added.	2017-07-12 16:59:06	2017-07-12 15:00:00
+122	432	https://www.blackdesertonline.com/news/view/432?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/terrmian/thumb.jpg	Große Eröffnung des Terrmian Aquapark!	Eröffnung des Terrmian Aquaparks! Zur großen Eröffnungsfeier wurden dem Quests und Gegenstände hinzugefügt.	2017-08-10 15:20:05	0000-00-00 00:00:00
+123	433	https://www.blackdesertonline.com/news/view/433?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/terrmian/thumb.jpg	Grande ouverture du parc aquatique de Terrmian !	Grande ouverture du parc aquatique de Terrmian ! Les objets et quêtes associés au Festival de Terrmian ont été ajoutés.	2017-08-10 15:20:05	0000-00-00 00:00:00
+124	434	https://www.blackdesertonline.com/news/view/434?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 19.07.2017\
+\
+\
+\
+Duration: 3h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+11:00 U...	2017-07-19 11:02:14	2017-07-18 15:00:00
+125	435	https://www.blackdesertonline.com/news/view/435?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 19.07.2017\
+\
+\
+\
+Dauer: 3h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-08-15 15:07:06	0000-00-00 00:00:00
+126	436	https://www.blackdesertonline.com/news/view/436?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 19.07.2017 \
+\
+\
+\
+Durée: 3h\
+Mise hors ligne du serveur:\
+M...	2017-08-15 15:07:06	0000-00-00 00:00:00
+127	437	https://www.blackdesertonline.com/news/view/437?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 26.07.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 U...	2017-07-26 12:05:07	2017-07-25 15:00:00
+128	438	https://www.blackdesertonline.com/news/view/438?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 26.07.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-08-16 16:31:06	0000-00-00 00:00:00
+129	439	https://www.blackdesertonline.com/news/view/439?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 26.07.2017 \
+\
+\
+\
+Durée: 4h\
+Mise hors ligne du serveur:\
+M...	2017-08-16 16:31:06	0000-00-00 00:00:00
+130	440	https://www.blackdesertonline.com/news/view/440?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/arena/thumb.jpg	Make Your Own Rules, Arena of Arsha	Arena of Arsha is a special battle arena where YOU become the operator to hold PVP matches. Starting today, engage in glorious battles with you hosting and setting up every part...	2017-07-26 12:44:11	2017-07-25 12:00:00
+131	441	https://www.blackdesertonline.com/news/view/441?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/arena/thumb.jpg	Arshas Arena – Ihr bestimmt die Regeln!	Arshas Arena ist eine spezielle PvP-Kampfarena, in der IHR die Regeln bestimmt! Reserviert mit Eurer Gilde Arshas Arena und erstellt Euer eigenes Turnier!\
+ \
+Gildenmeister...	2017-08-16 16:31:06	0000-00-00 00:00:00
+132	442	https://www.blackdesertonline.com/news/view/442?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/arena/thumb.jpg	Arène d’Arsha, établissez vos propres règles !	L’arène d’Arsha est une zone spéciale de combat où VOUS devenez l’organisateur de matchs JcJ.\
+Les maitres de guilde peuvent choisir une d...	2017-08-16 16:31:06	0000-00-00 00:00:00
+133	443	https://www.blackdesertonline.com/news/view/443?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 02.08.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 U...	2017-08-02 12:11:10	2017-08-01 15:00:00
+134	444	https://www.blackdesertonline.com/news/view/444?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 02.08.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-08-02 12:13:38	2017-08-01 15:00:00
+135	445	https://www.blackdesertonline.com/news/view/445?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 02.08.2017 \
+\
+\
+\
+Durée: 4h\
+Mise hors ligne du serveur:\
+M...	2017-08-18 13:17:05	0000-00-00 00:00:00
+136	446	https://www.blackdesertonline.com/news/view/446?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/pa_note/thumb.jpg	News from the Other Side of the World	Dear Adventurers,\
+For this post, we have prepared something special for all those who love to forecast into the future of Black Desert Online. Well, this is your chance to see ...	2017-08-10 15:21:04	2017-08-10 15:00:00
+137	447	https://www.blackdesertonline.com/news/view/447?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/pa_note/thumb.jpg	News from the Other Side of the World	Grüße Abenteurer! Es sind Neuigkeiten direkt vom Entwickler eingetroffen, doch leider liegt uns der Artikel momentan nur auf Englisch vor. Wir werden die deutsche Ver...	2017-08-10 15:21:05	2017-08-10 15:00:00
+138	448	https://www.blackdesertonline.com/news/view/448?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/pa_note/thumb.jpg	News from the Other Side of the World	"Cet article sera traduit en français et publié bientôt."\
+ \
+Dear Adventurers,\
+For this post, we have prepared something special for all those who lov...	2017-08-29 15:48:03	0000-00-00 00:00:00
+139	449	https://www.blackdesertonline.com/news/view/449?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 16.08.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2017-08-16 13:29:05	2017-08-15 15:00:00
+140	450	https://www.blackdesertonline.com/news/view/450?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 16.08.2017\
+\
+\
+\
+Dauer: 5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-08-16 13:29:05	2017-08-15 15:00:00
+141	451	https://www.blackdesertonline.com/news/view/451?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 16.08.2017 \
+\
+\
+\
+Durée: 5h\
+Mise hors ligne du serveur:\
+M...	2017-08-30 14:31:03	0000-00-00 00:00:00
+142	455	https://www.blackdesertonline.com/news/view/455?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/burning/thumb.jpg	Burn it up! Burning Attendance Reward	Be fired up to enjoy the vast world of Black Desert to the fullest!	2017-08-16 16:32:05	2017-08-16 16:30:00
+143	452	https://www.blackdesertonline.com/news/view/452?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/guild/thumb.jpg	Get Together! Guild Attendance Reward	Any adventurer in a medium-sized or bigger guilds is qualified to receive guild attendance reward.	2017-08-16 16:32:05	2017-08-16 16:00:00
+144	456	https://www.blackdesertonline.com/news/view/456?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/burning/thumb.jpg	Fühlt die Hitze! Heiße Anwesenheitsbelohnungen	Schaut Euch die neuen heißen Anwesenheitsbelohnungen an!	2017-08-16 16:32:05	2017-08-16 16:30:00
+145	453	https://www.blackdesertonline.com/news/view/453?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/guild/thumb.jpg	Versammelt Euch! Gilden-Anwesenheitsbelohnung	Jedes Mitglied einer Gilde der Größe „Mittel“ oder größer kann Gilden-Anwesenheitsbelohnungen erhalten.	2017-08-16 16:32:05	2017-08-16 16:00:00
+146	457	https://www.blackdesertonline.com/news/view/457?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/burning/thumb.jpg	Ça brûle! Récompense d'assiduité ardente	Enflammez-vous pour profiter pleinement du vaste monde de Black Desert!	2017-08-30 16:10:03	0000-00-00 00:00:00
+147	454	https://www.blackdesertonline.com/news/view/454?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/guild/thumb.jpg	Rassemblez-vous! Récompense d'assiduité de guilde	Tous les aventuriers se trouvant dans une guilde de taille moyenne ou grande sont qualifiés pour recevoir les récompenses d’assiduité de guilde.	2017-08-30 16:10:03	0000-00-00 00:00:00
+148	458	https://www.blackdesertonline.com/news/view/458?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/rulupee/thumb.jpg	Explore the Vast World Again!	Let Rulupee guide you to every corner of the World!	2017-08-18 13:59:03	2017-08-18 13:00:00
+149	459	https://www.blackdesertonline.com/news/view/459?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/rulupee/thumb.jpg	Eine neue Weltreise!	Entdeckt neue Orte mit Rulupee.	2017-08-18 13:59:03	2017-08-18 13:00:00
+150	460	https://www.blackdesertonline.com/news/view/460?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/rulupee/thumb.jpg	Explorez une nouvelle fois le monde!	Laissez Rulupee vous guider aux quatre coins du monde !	2017-09-01 09:35:05	0000-00-00 00:00:00
+151	461	https://www.blackdesertonline.com/news/view/461?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 30.08.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 U...	2017-08-30 12:16:04	2017-08-29 15:00:00
+152	462	https://www.blackdesertonline.com/news/view/462?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 30.08.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-08-30 12:16:05	2017-08-29 15:00:00
+153	463	https://www.blackdesertonline.com/news/view/463?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 30.08.2017 \
+\
+\
+\
+Durée: 4h\
+Mise hors ligne du serveur:\
+M...	2017-09-12 15:09:06	0000-00-00 00:00:00
+154	464	https://www.blackdesertonline.com/news/view/464?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_bonus.jpg	Bonus Pearl Event for Pearl Box Purchase	Summer is over and Fall is breezing in…Buy a Pearl Box and get extra Pearls and more!	2017-08-30 14:32:04	2017-08-30 14:00:00
+155	465	https://www.blackdesertonline.com/news/view/465?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_bonus.jpg	Bonus-Perlen beim Kauf von Perlenpaketen	Der Sommer neigt sich dem Ende und der Herbst steht vor der Tür... Zeit für ein paar Perlen! Und bei jedem Kauf eines Perlenpaketes erhaltet Ihr Bonus-Perlen!	2017-08-30 14:32:04	2017-08-30 14:00:00
+156	466	https://www.blackdesertonline.com/news/view/466?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_bonus.jpg	Bonus de perles pour chaque achat de coffret de pe	C’est déjà la fin de l’été et les vents d’automne commencent à souffler... Achetez un coffret de perles et recevez des perles bonus et bien plus encore !	2017-09-13 15:46:05	0000-00-00 00:00:00
+157	470	https://www.blackdesertonline.com/news/view/470?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_guide.jpg	SAVAGE RIFT, The Ultimate Co-op Experience	Savage Rift\
+ The Ultimate Co-op Experience\
+    \
+Savage Rift is a defense game where you and your allies must protect the Sealed Tower from what seems to be endles...	2017-08-30 16:11:08	2017-08-30 16:00:00
+158	467	https://www.blackdesertonline.com/news/view/467?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_event.jpg	Hold the Line!  Or Face Annihilation!	Who will protect the Sealed Tower from the raving raid of monsters?	2017-08-30 16:11:08	2017-08-30 15:30:00
+159	472	https://www.blackdesertonline.com/news/view/472?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_guide.jpg	GRAUSAMER RISS, Das ultimative Koop-Erlebnis!	Grausamer Riss\
+ Das ultimative Koop-Erlebnis!\
+    \
+Grausamer Riss ist ein Verteidigungsspiel, bei dem Ihr gemeinsam mit Euren Verbündeten den Versiegelten Tu...	2017-08-30 16:11:08	2017-08-30 16:00:00
+160	468	https://www.blackdesertonline.com/news/view/468?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_event.jpg	Verteidigt den Versiegelten Turm! Oder werdet vern	Wer wird sich den anstürmenden Monstern entgegenstellen, um den Versiegelten Turm zu beschützen?	2017-09-19 14:08:06	2017-08-30 15:30:00
+161	473	https://www.blackdesertonline.com/news/view/473?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_guide.jpg	La Crevasse Sauvage, L'expérience co-op ultime !	Crevasse Sauvage\
+ L’expérience ultime en coopération\
+    \
+La Crevasse Sauvage est un jeu de défense où vous et vos alliés...	2017-09-25 08:25:06	0000-00-00 00:00:00
+162	469	https://www.blackdesertonline.com/news/view/469?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170830/thumb_event.jpg	Tenez bons... ou périssez !	Qui sera capable de protéger la tour scellée des hordes de monstres sanguinaires ?	2017-09-19 14:08:06	0000-00-00 00:00:00
+163	474	https://www.blackdesertonline.com/news/view/474?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Urgent Maintenance	Dear Players,\
+\
+We will perform our maintenance as follows:\
+\
+Date: Friday. 9.1.2017\
+\
+\
+\
+Duration: 1.5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+09:30 UTC\
+11:00 UTC\
+\
+\
+We...	2017-09-01 11:04:04	2017-09-01 09:30:00
+164	475	https://www.blackdesertonline.com/news/view/475?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Dringende Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen.\
+\
+Datum: Freitag, 01.09.2017 \
+\
+\
+\
+Dauer: 1.5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+09:30...	2017-09-01 11:04:04	2017-09-01 09:30:00
+165	476	https://www.blackdesertonline.com/news/view/476?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Urgente	Chers joueurs,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes. \
+\
+Date: Jeudi, 1.09.2017 \
+\
+\
+\
+Durée: 1.5h\
+Mise hors ligne du serveur:\
+Mise en lign...	2017-09-26 15:40:05	0000-00-00 00:00:00
+166	477	https://www.blackdesertonline.com/news/view/477?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 13.09.2017\
+\
+\
+\
+Duration: 4h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+12:00 U...	2017-09-13 12:08:05	2017-09-12 15:00:00
+167	478	https://www.blackdesertonline.com/news/view/478?lang=EN	Announcement	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170928/thumb.jpg	Taking a Look into Kamasylvia	Here we wanted to show in-depth some of the most exciting contents added with the Kamasylvia launch....	2017-10-25 13:49:04	2017-09-28 15:00:00
+168	479	https://www.blackdesertonline.com/news/view/479?lang=DE	Announcement	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170928/thumb.jpg	Ein Blick auf Kamasilvia	Hier wollen wir Euch ausfhrlich die aufregenden Neuheiten zeigen, die mit dem Kamasilvia-Update komm...	2017-10-25 13:50:05	2017-09-28 15:00:00
+169	480	https://www.blackdesertonline.com/news/view/480?lang=FR	Announcement	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170928/thumb.jpg	Aperçu de Kamasylvia	Nous voulons ici vous montrer un peu plus en dtail les nouveaux contenus les plus excitants qui sero...	2017-10-25 15:52:05	0000-00-00 00:00:00
+170	481	https://www.blackdesertonline.com/news/view/481?lang=EN	Update	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/6498189ced106254c4438f5c11ec3834.jpg	Patch Notes - 18th October 2017	Greetings adventurers,Halloween is around the corner and Black Desert Online just became a bit more ...	2017-10-25 13:49:04	2017-10-18 20:00:00
+171	482	https://www.blackdesertonline.com/news/view/482?lang=FR	Update	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/1ade5a851c004266abcf5c122a4ccc44.jpg	Notes de Patch - 18 octobre 2017	Salutation aventuriers,C’est la saison d’Halloween et Black Desert Online va devenir un peu plus eff...	2017-10-25 15:52:04	0000-00-00 00:00:00
+172	483	https://www.blackdesertonline.com/news/view/483?lang=DE	Update	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/9866cf67ccee9830e73c9b5d01d77618.jpg	Patch Notes - 18. Oktober 2017	Grüße Abenteurer!Halloween steht vor der Tür und lässt die Welt von Black Desert Online erschaudern....	2017-10-25 15:52:04	0000-00-00 00:00:00
+173	484	https://www.blackdesertonline.com/news/view/484?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Wartungsankündigung für EU	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 20.09.2017\
+\
+\
+\
+Dauer: 4h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-09-20 11:24:06	2017-09-19 14:00:00
+174	485	https://www.blackdesertonline.com/news/view/485?lang=EN	Event	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/f6cd0e223c31f495c748bcc573489899.jpg	Trick-or-Treat Spooky Halloween	Black Desert Special Halloween Pearl Shop PartyWhat Are You Dressing Up As?...	2017-10-25 13:49:04	2017-10-18 17:00:00
+175	486	https://www.blackdesertonline.com/news/view/486?lang=FR	Event	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/24be38ef7681b18559ebc854e7a9b44a.jpg	Un bonbon ou un sort Halloween effranyant	Célébration des perles de Black Desert - Événement d'HalloweenComment allez-vous vous habiller ?...	2017-10-25 15:52:05	0000-00-00 00:00:00
+176	487	https://www.blackdesertonline.com/news/view/487?lang=DE	Event	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/8115626fd549fb6e2bd024cee28b2e16.jpg	Süßes oder Saures Gruselige Halloween	Besondere Black Desert Perlenladen-PartyWie verkleidet Ihr Euch?...	2017-10-25 15:52:04	0000-00-00 00:00:00
+177	488	https://www.blackdesertonline.com/news/view/488?lang=EN	Event	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/6b32030c48aff4719152c298302497e7.jpg	Halloween in Wonderland!	The Red Moon lured the witches here from Wonderland.Defeat the Black Witch and Complete Halloween Qu...	2017-10-25 13:49:04	2017-10-18 18:00:00
+178	489	https://www.blackdesertonline.com/news/view/489?lang=FR	Event	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/31000ca68ea26ad5d3caee76074da00a.jpg	Halloween au Pays des merveilles !	La Lune Rouge attire jusqu'ici les sorcières du Pays des merveilles.Terrassez la Sorcière Noire et a...	2017-10-25 15:52:05	0000-00-00 00:00:00
+179	490	https://www.blackdesertonline.com/news/view/490?lang=DE	Event	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/7bdd0d8da273d8e1d680a7355e56e425.jpg	Halloween im Wunderland!	Der Blutmond hat die Hexen des Wunderlandes angelockt.\
+ Besiegt die Schwarze Hexe und schließt die H...	2017-10-25 15:52:04	0000-00-00 00:00:00
+180	491	https://www.blackdesertonline.com/news/view/491?lang=EN	Maintenance	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/50e1bc01ef63d51c5529623496d65cf7.jpg	[Maintenance] Regular Maintenance	Dear Players,We will perform our weekly maintenance as follows:Date:Wednesday, 25.10.2017Duration: 6...	2017-10-25 13:49:04	2017-10-24 16:00:00
+181	495	https://www.blackdesertonline.com/news/view/495?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170927/burning_thumb.jpg	Go for the Golden Treasure Chest!	Every 60 minutes of the day will bring special prizes! Up to 5 hours of playtime will land you a Sealed Golden Treasure Chest as well!	2017-09-27 14:19:03	2017-09-27 14:00:00
+182	492	https://www.blackdesertonline.com/news/view/492?lang=FR	Maintenance	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/aebffc55b3e988211c77b5e0b20efb8a.jpg	[Maintenance] Maintenance Régulière	Salutations aventuriers,Nous allons procéder à une maintenance dans les conditions suivantes.Date:Me...	2017-10-25 15:52:04	0000-00-00 00:00:00
+183	496	https://www.blackdesertonline.com/news/view/496?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170927/burning_thumb.jpg	Holt Euch die Versiegelte goldene Schatzkiste!	Alle 60 Minuten erhaltet Ihr besondere Belohnungen! Spielt 5 Stunden und erhaltet eine Versiegelte goldene Schatzkiste!	2017-09-27 14:19:04	2017-09-27 14:00:00
+184	493	https://www.blackdesertonline.com/news/view/493?lang=DE	Maintenance	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/cd2810d35272ac35df585ec79c459ae5.jpg	[Wartung] Reguläre Wartung	Liebe Spieler,wir werden folgende Wartung durchführen.Datum:Mittwoch, 25.10.2017Dauer: 6hServer wird...	2017-10-25 15:52:04	0000-00-00 00:00:00
+185	497	https://www.blackdesertonline.com/news/view/497?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170927/burning_thumb.jpg	En route pour le coffre au trésor doré !	Des récompenses spéciales toutes les 60 minutes ! Après 5 heures de jeu vous recevrez un coffre au trésor doré scellé !	2017-10-18 16:23:04	0000-00-00 00:00:00
+186	494	https://www.blackdesertonline.com/news/view/494?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170927/alchemist_thumb.jpg	Événement d’ouverture de Kamasylvia	Plus vous produirez et plus vous obtiendrez de meilleurs objets !Devenez un alchimiste capable de créer une boîte de Kamasylvia et fabriquez votre boîte de Kamasylvia brillante !	2017-10-17 14:20:03	0000-00-00 00:00:00
+187	498	https://www.blackdesertonline.com/news/view/498?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170927/growtree_thumb.jpg	Help us Grow Young Kamasylve	Join us in taking care of the Young Kamasylve Tree at Kamasylve Temple!Money does not grow on trees, but Rewards do!	2017-09-27 14:33:03	2017-09-27 14:00:00
+188	499	https://www.blackdesertonline.com/news/view/499?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170927/growtree_thumb.jpg	Helft beim Pflanzen von Jungen Kamasilven	Helft mit beim Pflanzen von Jungen Kamasilven beim Kamasilvetempel!Geld wächst zwar nicht auf diesen Bäumen, aber dafür Belohnungen!	2017-09-27 14:33:03	2017-09-27 14:00:00
+189	500	https://www.blackdesertonline.com/news/view/500?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170927/growtree_thumb.jpg	Aidez-nous à faire pousser le jeune Kamasylve	Rejoignez-nous pour prendre soin du jeune arbre Kamasylve au Temple de Kamasylve !L’argent ne pousse pas dans les arbres mais les récompenses oui !	2017-10-18 19:11:03	0000-00-00 00:00:00
+190	501	https://www.blackdesertonline.com/news/view/501?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Urgent Maintenance	Dear Players,\
+\
+We will perform our maintenance as follows:\
+\
+Date: Thursday, 28.09.2017\
+\
+\
+\
+Duration: 1.5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+12:30 UTC\
+14:00 UTC\
+\
+...	2017-09-28 13:54:05	2017-09-28 12:00:00
+191	502	https://www.blackdesertonline.com/news/view/502?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Dringende Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Donnerstag, 28.09.2017\
+\
+\
+\
+Dauer: 1.5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+12...	2017-09-28 13:54:05	2017-09-28 12:00:00
+192	503	https://www.blackdesertonline.com/news/view/503?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Urgente	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Jeudi, 28.09.2017 \
+\
+\
+\
+Durée: 1.5h\
+Mise hors ligne du serveur:\
+Mi...	2017-10-19 17:19:04	0000-00-00 00:00:00
+193	505	https://www.blackdesertonline.com/news/view/505?lang=DE	ANKÜNDIGUNGEN	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170928/thumb.jpg	Ein Blick auf Kamasilvia	Hier wollen wir Euch ausführlich die aufregenden Neuheiten zeigen, die mit dem Kamasilvia-Update kommen werden. Weidet Eure Augen an dem action-geladenen Altar der Ausbildu...	2017-09-28 17:29:04	2017-09-28 15:00:00
+194	506	https://www.blackdesertonline.com/news/view/506?lang=FR	COMMUNIQUÉS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170928/thumb.jpg	Aperçu de Kamasylvia	Nous voulons ici vous montrer un peu plus en détail les nouveaux contenus les plus excitants qui seront ajoutés avec la sortie de Kamasylvia.  Prenez-en plein...	2017-10-24 16:06:04	0000-00-00 00:00:00
+195	504	https://www.blackdesertonline.com/news/view/504?lang=EN	ANNOUNCEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/20170928/thumb.jpg	Taking a Look into Kamasylvia	Here we wanted to show in-depth some of the most exciting contents added with the Kamasylvia launch. Feast your eyes on the action-packed Altar of Training, the dreamy Tier 9 mo...	2017-09-28 17:30:04	2017-09-28 15:00:00
+196	507	https://www.blackdesertonline.com/news/view/507?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,\
+\
+We will perform our weekly maintenance as follows:\
+\
+Date: Wednesday, 18.10.2017\
+\
+\
+\
+Duration: 5h\
+Server Down:\
+Server Up: \
+\
+\
+Global\
+08:00 UTC\
+13:00 U...	2017-10-18 16:06:04	2017-10-17 14:00:00
+197	508	https://www.blackdesertonline.com/news/view/508?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,\
+\
+wir werden folgende Wartung durchführen. \
+\
+Datum: Mittwoch, 18.10.2017\
+\
+\
+\
+Dauer: 5h\
+Server wird geschlossen:\
+Server wird geöffnet: \
+\
+\
+Global\
+08:00 ...	2017-10-25 17:22:04	0000-00-00 00:00:00
+198	509	https://www.blackdesertonline.com/news/view/509?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,\
+\
+Nous allons procéder à une maintenance dans les conditions suivantes.\
+\
+Date: Mercredi, 18.10.2017 \
+\
+\
+\
+Durée: 5h\
+Mise hors ligne du serveur:\
+M...	2017-10-25 17:22:04	0000-00-00 00:00:00
+199	510	https://www.blackdesertonline.com/news/view/510?lang=EN	UPDATE	https://akamai-webcdn.blackdesertonline.com/bdo/resources/test/news/778888d59c58b4eff87bf7e816f8d137.jpg	Patch Notes - 18th October 2017	Greetings adventurers,Halloween is around the corner and Black Desert Online just became a bit more spooky. The red moon rises around this time, which creates mysterious cr...	2017-10-18 16:21:03	2017-10-18 16:00:00
+200	511	https://www.blackdesertonline.com/news/view/511?lang=DE	UPDATE	https://akamai-webcdn.blackdesertonline.com/bdo/resources/test/news/9f932fec9df2c6f8702625c9dfc598da.jpg	Patch Notes - 18. Oktober 2017	Grüße Abenteurer!Halloween steht vor der Tür und lässt die Welt von Black Desert Online erschaudern. Neue und alte Halloween-Events sind ab heute verfügbar und um das ganzeabzur...	2017-10-26 16:30:04	0000-00-00 00:00:00
+201	512	https://www.blackdesertonline.com/news/view/512?lang=FR	MISE À JOUR	https://akamai-webcdn.blackdesertonline.com/bdo/resources/test/news/9efe76e86759810f3bce637f2d20d705.jpg	Notes de Patch - 18 octobre 2017	Salutation aventuriers,C’est la saison d’Halloween et Black Desert Online va devenir un peu plus effrayant. D’anciens et de tout nouveaux événements vont commencer et une variét...	2017-10-26 16:30:04	0000-00-00 00:00:00
+202	517	https://www.blackdesertonline.com/news/view/517?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/6b32030c48aff4719152c298302497e7.jpg	Halloween in Wonderland!	The Red Moon lured the witches here from Wonderland. Defeat the Black Witch and Complete Halloween Quests to Get Special Rewards!	2017-10-18 19:12:04	2017-10-18 19:00:00
+203	514	https://www.blackdesertonline.com/news/view/514?lang=EN	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/f6cd0e223c31f495c748bcc573489899.jpg	Trick-or-Treat Spooky Halloween	Black Desert Special Halloween Pearl Shop Party  What Are You Dressing Up As?	2017-10-18 19:12:04	2017-10-18 19:00:00
+204	515	https://www.blackdesertonline.com/news/view/515?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/f6cd0e223c31f495c748bcc573489899.jpg	Süßes oder Saures Gruselige Halloween	Besondere Black Desert Perlenladen-Party Wie verkleidet Ihr Euch?	2017-10-26 16:30:04	0000-00-00 00:00:00
+205	516	https://www.blackdesertonline.com/news/view/516?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/f6cd0e223c31f495c748bcc573489899.jpg	Un bonbon ou un sort ? Halloween effrayant !	Célébration des perles de Black Desert - Événement d'Halloween Comment allez-vous vous habiller ?	2017-10-26 16:30:04	0000-00-00 00:00:00
+206	518	https://www.blackdesertonline.com/news/view/518?lang=DE	EVENTS	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/6b32030c48aff4719152c298302497e7.jpg	Halloween im Wunderland!	Der Blutmond hat die Hexen des Wunderlandes angelockt.\
+ Besiegt die Schwarze Hexe und schließt die Halloween Quests ab, um tolle Belohnungen zu erhalten.	2017-10-26 16:30:04	0000-00-00 00:00:00
+207	519	https://www.blackdesertonline.com/news/view/519?lang=FR	ÉVÉNEMENTS	https://akamai-webcdn.blackdesertonline.com/bdo/resources/news/6b32030c48aff4719152c298302497e7.jpg	Halloween au Pays des merveilles !	La Lune Rouge attire jusqu'ici les sorcières du Pays des merveilles.Terrassez la Sorcière Noire et accomplissez les quêtes d'Halloween afin d'obtenir des récompenses spéciales !	2017-10-26 16:30:04	0000-00-00 00:00:00
+208	520	https://www.blackdesertonline.com/news/view/520?lang=EN	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_en.jpg	[Ended] Regular Maintenance	Dear Players,We will perform our weekly maintenance as follows:Date: Wednesday, 25.10.2017 Duration: 6hServer Down:Server Up:Global08:00 UTC14:00 UTCWest Coast (NA)01:...	2017-10-25 17:09:04	2017-10-24 14:00:00
+209	521	https://www.blackdesertonline.com/news/view/521?lang=DE	WARTUNG	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_de.jpg	[Beendet] Reguläre Wartung	Liebe Spieler,wir werden folgende Wartung durchführen. Datum: Mittwoch, 25.10.2017 Dauer: 6hServer wird geschlossen:Server wird geöffnet:Global08:00 UTC14:00 UTCW...	2017-10-26 16:30:04	0000-00-00 00:00:00
+210	522	https://www.blackdesertonline.com/news/view/522?lang=FR	MAINTENANCE	https://akamai-webcdn.blackdesertonline.com/bdo/operation/news/uc_thumb_fr.jpg	[FIN] Maintenance Régulière	Salutations aventuriers,Nous allons procéder à une maintenance dans les conditions suivantes.Date: Mercredi, 25.10.2017 Durée: 6hMise hors ligne du serveur:Mise en lig...	2017-10-26 16:30:04	0000-00-00 00:00:00
+211	523	https://www.blackdesertonline.com/news/view/523?lang=EN	UPDATE	https://akamai-webcdn.blackdesertonline.com/bdo/resources/test/news/778888d59c58b4eff87bf7e816f8d137.jpg	Patch Notes - 25th October 2017	Greetings Adventurer,Below you will find this week's Patch Notes, including a Black Stone Drop Event, new Loyal Attendance and new Challenge Rewards.As Halloween approaches...	2017-10-26 09:03:03	2017-10-25 17:00:00
+212	524	https://www.blackdesertonline.com/news/view/524?lang=DE	UPDATE	https://akamai-webcdn.blackdesertonline.com/bdo/resources/test/news/9f932fec9df2c6f8702625c9dfc598da.jpg	Patch Notes - 25. Oktober 2017	Greetings Adventurer,Below you will find this week's Patch Notes, including a Black Stone Drop Event, new Loyal Attendance and new Challenge Rewards.As Halloween approaches...	2017-10-26 16:30:04	0000-00-00 00:00:00
+213	525	https://www.blackdesertonline.com/news/view/525?lang=FR	MISE À JOUR	https://akamai-webcdn.blackdesertonline.com/bdo/resources/test/news/9efe76e86759810f3bce637f2d20d705.jpg	Notes de Patch – 25 Octobre 2017	Greetings Adventurer,Below you will find this week's Patch Notes, including a Black Stone Drop Event, new Loyal Attendance and new Challenge Rewards.As Halloween approaches...	2017-10-26 16:30:04	0000-00-00 00:00:00

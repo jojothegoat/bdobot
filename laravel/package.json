@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "bootstrap-sass": "^3.0.0"
+  },
+  "dependencies": {
+    "Chart.Zoom.js": "^0.2.0",
+    "bootstrap-sass": "^3.3.7",
+    "chart.js": "^2.5.0",
+    "datatables.net": "^1.10.13",
+    "datatables.net-bs": "^1.10.13",
+    "jquery": "^3.2.1"
+  }
+}

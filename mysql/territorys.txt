@@ -1,0 +1,9 @@
+0	Republic of Calpheon	Balenos territory\
+
+1	Republic of Calpheon\
+	Serendia territory\
+
+2	Republic of Calpheon\
+	Calpheon territory
+3	Republic of Media	Mediah territory
+4	Kingdom of Valencia	Valencia territory

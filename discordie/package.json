@@ -1,0 +1,24 @@
+{
+  "name": "bddb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bddb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JojoTheGoat",
+  "license": "MIT",
+  "dependencies": {
+    "discordie": "^0.11.0",
+    "filesize": "^3.5.11",
+    "moment": "^2.19.1",
+    "moment-precise-range-plugin": "^1.2.4",
+    "moment-timezone": "^0.5.13",
+    "mysql": "^2.15.0",
+    "redis": "^2.8.0",
+    "request": "^2.83.0",
+    "sugar": "^2.0.4",
+    "twit": "^2.2.5",
+    "underscore": "^1.8.3"
+  }
+}

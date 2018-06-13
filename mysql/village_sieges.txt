@@ -1,0 +1,33 @@
+1	Ocean
+2	Velia
+3	Heidel City
+4	Capital of Calpheon
+5	Altinova
+6	Valencia City
+7	Eastern Velia
+8	Western Velia
+9	Eastern Olvia
+10	Western Olvia
+11	Northern Serendia
+12	Serendia Swamp
+13	Serendia Outer Mountains
+14	Serendia Neutral Zone
+15	Northeastern Calpheon
+16	Northwestern Calpheon
+17	Calpheon Castle Site
+18	Southwestern Calpheon
+19	Southern Calpheon
+20	Southern Keplan
+21	Northern Keplan
+22	Northern Mediah
+23	Central Mediah I
+24	Central Mediah II
+25	Southern Mediah
+26	Tungrad Forest
+27	Valencia Entrance I
+28	Valencia Entrance II
+29	Great Desert
+30	Northern Valencia
+31	Central Valencia
+32	Southern Valencia
+33	Ourskirts of Valencia

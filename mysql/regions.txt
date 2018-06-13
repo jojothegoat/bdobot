@@ -1,0 +1,626 @@
+1	0	0	Test Zone	0	0	0	2	0
+2	0	0	Ocean	0	0	0	2	1
+3	8	0	Balenos Bay	0	0	0	2	0
+4	1	0	Plain of Balenos	0	0	0	2	0
+5	1	0	Velia	0	0	0	1	2
+6	2	0	Agris Steppe	0	0	0	2	0
+7	2	0	Altar of Agris	1	3	1	2	8
+8	4	0	Fleme Hills	0	0	0	2	0
+9	3	0	Western Guard Camp	1	0	3	0	8
+10	3	0	Forest of Seclusion	0	0	0	2	0
+11	5	0	Balenos Forest	0	0	0	4	0
+12	6	0	Forest of Plunder	1	2	1	4	7
+13	7	0	Ehwaz Hill	1	4	1	4	7
+14	7	0	Cron Castle Site	1	3	2	2	7
+15	7	0	Cron Castle	1	0	3	2	7
+16	1	0	Bartali Farm	0	0	0	2	0
+17	1	0	Finto Farm	0	0	0	2	0
+18	1	0	Loggia Farm	0	0	0	2	0
+19	4	0	Marino Farm	0	0	0	2	0
+20	4	0	Toscani Farm	1	2	1	2	8
+21	5	0	DelLucci Farm	0	0	0	2	0
+22	7	0	Piazza Farm Ruins	0	0	0	2	0
+23	1	0	Ossuary	0	0	0	0	0
+24	8	0	Coastal Cave	1	1	1	2	8
+25	2	0	Imp Cave	1	4	2	2	8
+26	3	0	Ancient Stone Chamber	1	5	2	2	8
+27	6	0	Balenos Mountains	0	0	0	2	0
+28	5	0	Heidel Pass	1	1	1	2	7
+29	14	1	Goat Mountain	0	0	0	2	0
+30	11	1	Heidel Castle	0	0	0	2	0
+31	12	1	Northern Guard Camp	1	1	1	2	11
+32	11	1	Heidel City	0	0	0	1	3
+33	12	1	Northern Heidel Quarry	1	5	2	2	11
+34	13	1	King Forest	0	0	0	2	0
+35	14	1	Northern Plain of Serendia	1	3	1	4	11
+36	12	1	Eastern Border	1	2	3	4	11
+37	19	1	Glish Swamp	1	4	2	2	12
+38	16	1	Demi Riverbank	0	0	0	2	0
+39	16	1	Demi River	0	0	0	2	0
+40	18	1	Southern Plain of Serendia	0	0	0	2	0
+41	14	1	Wizard's Altar	0	0	0	2	0
+42	21	1	Grain Belt	0	0	0	2	0
+43	23	1	Southern Mountain Range	0	0	0	2	0
+44	18	1	Western Cliff	0	0	0	2	0
+45	15	1	Northern Neutral Zone	0	0	0	4	0
+46	24	1	Southern Neutral Zone	1	4	1	4	14
+47	17	1	Central Neutral Zone	0	0	0	2	0
+48	18	1	Sanctuary Valley Path	0	0	0	2	0
+49	19	1	Naga Marsh	0	0	0	4	0
+50	20	1	Fogan Marsh	0	0	0	2	0
+51	19	1	Extraction Mill	0	0	0	2	0
+52	20	1	Glish	0	0	0	0	0
+53	20	1	Glish Ruins	1	0	3	2	12
+54	20	1	Northern Cienaga	0	0	0	2	0
+55	20	1	Southern Cienaga	1	5	1	2	12
+56	20	1	Central Guard Camp	1	1	1	2	12
+57	20	1	Southern Guard Camp	1	1	1	2	13
+58	19	1	Northwestern Gateway	1	2	2	2	12
+59	21	1	Eastern Gateway	1	0	1	2	13
+60	13	1	Alejandro Farm	1	4	1	2	11
+61	19	1	Costa Farm	1	3	1	2	12
+62	21	1	Moretti Plantation	1	2	3	2	13
+63	14	1	Lynch Farm Ruins	0	0	0	2	0
+64	20	1	Dernyl Farm	0	0	0	2	0
+65	20	1	Elda Farm	0	0	0	2	0
+66	14	1	Rugged Southern Mountain Range	0	0	0	2	0
+67	23	1	Bloody Monastery	1	4	1	2	13
+68	23	1	Monastery Riverhead	0	0	0	2	0
+69	23	1	Death's Pilgrimage	0	0	0	2	0
+70	22	1	Serendia Shrine	1	5	2	2	13
+71	21	1	Castle Ruins	1	3	2	2	13
+72	18	1	Watchtower	1	0	1	2	14
+73	15	1	Biraghi Den	1	2	2	2	14
+74	17	1	Orc Camp	1	5	1	2	14
+75	17	1	Bradie Fortress	1	3	1	2	14
+76	16	1	Southern Mountain Range	0	0	0	2	0
+77	31	2	Capital of Calpheon	0	0	0	1	4
+78	0	4	Desert Region	0	0	0	2	0
+79	255	2	Other Regions	0	0	0	2	0
+80	0	2	Calpheon Territory	0	0	0	2	0
+81	255	2	Second Territory	0	0	0	2	0
+82	255	2	Third Territory	0	0	0	2	0
+83	255	2	Fifth Territory	0	0	0	2	0
+84	18	1	Southwestern Gateway	1	1	1	2	14
+85	53	3	Helms Post	0	0	0	2	0
+86	1	0	Western Balenos Highlands	0	0	0	2	0
+87	8	0	Coastal Cliff	0	0	0	2	0
+88	61	0	Olvia	0	0	0	0	0
+89	64	0	Elder's Bridge	1	0	1	2	10
+90	64	0	Foot of Thermian Mountain	1	4	1	2	10
+91	63	0	Thermian Cliff	1	1	1	2	10
+92	63	0	Olvia Coast	1	4	2	2	9
+93	6	0	Goblin Cave	1	5	2	2	7
+94	4	0	Toscani Farm	0	0	0	2	0
+95	1	0	Bartali Farm	0	0	0	2	0
+96	4	0	Marino Farm	0	0	0	2	0
+97	1	0	Finto Farm	0	0	0	2	0
+98	7	0	Cron Castle Site  	0	0	0	2	0
+99	1	0	Plain of Balenos	0	0	0	2	0
+100	4	0	Fleme Hills	0	0	0	2	0
+101	7	0	Ehwaz Hill	0	0	0	2	0
+102	2	0	Agris Steppe	0	0	0	2	0
+103	5	0	Heidel Pass	0	0	0	2	0
+104	8	0	Coastal Cliff	0	0	0	2	0
+105	25	0	Balenos River	0	0	0	2	0
+106	14	1	Lynch Ranch	1	0	1	2	11
+107	44	2	Keplan	0	0	0	0	0
+108	0	2	Rugged Mountain Range	0	0	0	2	0
+109	0	2	Mountainous Area	0	0	0	2	0
+110	44	2	Marni Cave Path	0	0	0	2	0
+111	44	2	Dane Canyon	0	0	0	2	0
+112	44	2	Saunil Camp	1	1	2	2	20
+113	43	2	Hexe Sanctuary	1	0	3	2	19
+114	45	2	Faust Forest	0	0	0	2	0
+115	0	2	Lumbering 1	0	0	0	2	0
+116	0	2	Lumbering 2	0	0	0	2	0
+117	46	2	Primal Giant Post	1	2	1	2	20
+118	45	2	North Quarry	0	0	0	2	0
+119	34	2	Florin	0	0	0	0	0
+120	37	2	Epheria Port	0	0	0	0	0
+121	37	2	Refugee Camp	0	0	0	2	0
+122	34	2	Northern Wheat Plantation	1	0	3	0	15
+123	38	2	Calpheon Castle	0	0	0	5	0
+124	38	2	Lake Kaia	0	0	0	3	0
+125	43	2	Behr	0	0	0	0	0
+126	42	2	Trent	0	0	0	0	0
+127	44	2	Trina Fort	1	3	3	2	20
+128	44	2	Glutoni Cave	0	0	0	2	0
+129	44	2	Marni's Lab	1	5	1	2	20
+130	44	2	Trina Beacon Mounds	1	4	1	2	20
+131	31	2	Upper Demi River	0	0	0	2	0
+132	20	1	Fogan Marsh	0	0	0	2	0
+133	22	1	Southern Mountain Range Brook	0	0	0	2	0
+134	1	0	Ossuary	0	0	0	0	0
+135	8	0	Coastal Cave	0	0	0	2	0
+136	2	0	Imp Cave	0	0	0	2	0
+137	3	0	Ancient Stone Chamber	0	0	0	2	0
+138	6	0	Goblin Cave	0	0	0	2	0
+139	22	1	Serendia Shrine	0	0	0	2	0
+140	18	1	Valley Cave	0	0	0	2	0
+141	18	1	Veiled Labyrinth	0	0	0	2	0
+142	7	0	Secret Cave	0	0	0	2	0
+143	8	0	Secret Cave	0	0	0	2	0
+144	8	0	Secret Cave	0	0	0	2	0
+145	14	1	Secret Cave	0	0	0	2	0
+146	14	1	Secret Cave	0	0	0	2	0
+147	22	1	Secret Cave	0	0	0	2	0
+148	23	1	Secret Cave	0	0	0	2	0
+149	20	1	Secret Cave	0	0	0	2	0
+150	19	1	Secret Cave	0	0	0	2	0
+151	23	1	Secret Cave	0	0	0	2	0
+152	20	1	Secret Cave	0	0	0	2	0
+153	14	1	Balenos Mountains	0	0	0	2	0
+154	17	1	Demi River	0	0	0	2	0
+167	18	1	Watchtower Underground Cave	0	0	0	2	0
+168	20	1	Secret Cave	0	0	0	2	0
+169	13	1	Secret Cave	0	0	0	2	0
+170	20	1	Secret Cave	0	0	0	2	0
+171	15	1	Basement Cellar	0	0	0	2	0
+172	20	1	Basement Cellar	0	0	0	2	0
+173	0	1	Soldiers' Tombs (Rugged Southern Mountain Range)	0	0	0	2	0
+174	0	0	Rugged Balenos Mountains	0	0	0	2	0
+175	0	0	Deep Sea	0	0	0	2	0
+176	15	1	Bandit's Den Byway	0	0	0	2	0
+177	22	1	Southern Mountain Range Riverhead	0	0	0	2	0
+178	21	1	Southern Mountain Range	0	0	0	2	0
+179	22	1	Neutral Zone Brook	0	0	0	2	0
+180	11	1	King Forest	0	0	0	2	0
+181	109	0	Lema Island	0	0	0	2	0
+182	9	0	Iliya Island	0	0	0	0	0
+183	33	2	Old Dandelion	0	0	0	2	0
+184	34	2	Bree Tree Ruins	1	2	1	2	15
+185	37	2	Abandoned Land	1	1	1	3	16
+186	36	2	Quint Hill	1	2	2	2	16
+187	33	2	Delphe Knights Castle	1	1	1	2	15
+188	33	2	Delphe Outpost	1	4	2	2	15
+189	33	2	Khuruto Cave	0	0	0	2	0
+190	34	2	Caphras Cave	0	0	0	2	0
+191	34	2	Ruins Underground	0	0	0	2	0
+192	34	2	Waragon Cave	0	0	0	2	0
+193	33	2	Karanda Ridge	1	5	1	2	15
+194	36	2	Anti-Troll Fortification	1	3	3	2	16
+195	34	2	Waragon-Infested Area	0	0	0	2	0
+196	33	2	Balenos Mountains	0	0	0	2	0
+197	34	2	Contaminated Farm	1	4	1	2	16
+198	33	2	Khuruto Cave	1	3	1	2	15
+199	34	2	Caphras Cave	0	0	0	2	0
+200	34	2	Ruins Underground	0	0	0	2	0
+201	45	2	Keplan Quarry	0	0	0	2	0
+202	55	3	Altinova	0	0	0	1	5
+203	52	3	Mediah Northern Highlands	1	3	1	2	22
+204	55	3	Stonebeak Shore	1	0	2	2	24
+205	55	3	Abun	0	0	0	2	0
+206	53	3	Rumbling Land	0	0	0	2	0
+207	51	3	Stonetail Wasteland	1	4	1	3	22
+208	51	3	Stonetail Horse Ranch	1	5	1	2	23
+209	54	3	Asula Highland	1	2	1	2	24
+210	53	3	Canyon of Corruption	1	1	1	2	23
+211	56	3	Abandoned Iron Mine	1	2	2	2	25
+212	54	3	Omar Lava Cave	1	1	2	2	24
+213	54	3	Manes Hideout	1	3	1	2	24
+214	54	3	Wandering Rogue Den	1	1	1	2	25
+215	58	3	Tungrad Forest	1	3	2	2	26
+216	58	3	Hasrah Cliff	1	0	2	2	26
+217	56	3	Alumn Rock Valley	1	0	1	2	25
+218	0	3	Boing Valley	0	0	0	2	0
+219	54	3	Small Island	0	0	0	2	0
+220	54	3	Fort Barran	0	0	0	2	0
+221	54	3	Tarif	0	0	0	0	0
+222	53	3	Kamasilve Temple	1	0	3	2	23
+223	54	3	Junaid River	0	0	0	2	0
+224	51	3	Mediah Castle	0	0	0	5	0
+225	0	3	Southern Mediah	0	0	0	2	0
+226	0	3	Mediah Mountains	0	0	0	2	0
+227	0	3	Amphitheater	0	0	0	6	0
+228	0	3	Amphitheater	0	0	0	2	0
+229	202	4	Valencia City	0	0	0	1	6
+230	202	4	The Great Desert of Valencia (Black Desert)	0	0	0	2	0
+231	0	4	Rock Belt (Desert 2 Region)	0	0	0	2	0
+232	0	4	Gateway 1	0	0	0	2	0
+233	205	4	Red Desert	0	0	0	2	0
+234	0	4	Gateway 3	0	0	0	2	0
+235	0	4	Gateway 4	0	0	0	2	0
+236	203	4	Altinova Gate	1	4	1	2	28
+237	45	2	North Abandoned Quarry	1	0	1	2	21
+238	46	2	Keplan Hill	1	2	1	2	21
+239	45	2	Oze Pass	1	1	3	2	21
+240	37	2	Epheria Sentry Post	1	5	2	2	16
+241	210	4	Bashim Base	1	2	1	2	28
+242	203	4	Boulder Intersection	0	0	0	2	0
+243	203	4	Taphtar Plain	1	1	1	2	27
+244	0	4	Kzaka Priests Region	0	0	0	2	0
+245	205	4	Atumach	0	0	0	2	0
+246	2	0	Western Gateway	1	0	2	2	9
+247	38	2	Calpheon Castle Site	0	0	0	3	0
+248	44	2	Abandoned Quarry	1	4	1	2	21
+249	42	2	Cyclops Land	0	0	0	2	0
+250	39	2	Treant Forest	1	5	1	3	18
+251	41	2	South Kaia Mountain	0	0	0	3	0
+252	40	2	North Kaia Mountain	1	1	1	3	17
+253	39	2	Rhutum Outstation	1	0	2	2	17
+254	39	2	Abandoned Monastery	0	0	0	2	0
+255	39	2	Kaia River	0	0	0	2	0
+256	39	2	Rhutum Sentry Post	0	0	0	2	0
+257	31	2	Slum Church	0	0	0	2	0
+258	31	2	Holy College of Calpheon	0	0	0	2	0
+259	31	2	Kalis Plaza	0	0	0	2	0
+260	31	2	Capital of Calpheon	0	0	0	2	0
+261	36	2	Troll Watchtower	0	0	0	2	0
+262	37	2	Cohen Farm	0	0	0	2	0
+263	36	2	Elder's Bridge Post	0	0	0	2	0
+264	37	2	Epheria Valley	1	0	1	2	16
+265	36	2	Quint Plain	0	0	0	2	0
+266	31	2	Southern Wheat Farm	0	0	0	2	0
+267	31	2	Falres Dirt Farm	0	0	0	2	0
+268	46	2	Hexe Stone Wall	1	1	1	2	19
+269	46	2	Gehaku Plain	0	0	0	2	0
+270	44	2	Tarte Rock Fork	0	0	0	2	0
+271	44	2	Beacon Entrance Post	1	0	1	2	20
+272	44	2	Saunil Battlefield	0	0	0	2	0
+273	44	2	Oberen Farm	0	0	0	2	0
+274	44	2	Bain Farmland	0	0	0	2	0
+275	46	2	Gianin Farm	0	0	0	2	0
+276	44	2	Riverside Farm	0	0	0	2	0
+277	45	2	Quarry Byway	0	0	0	2	0
+278	45	2	Keplan Vicinity	1	3	1	2	21
+279	46	2	Closed Western Gateway	0	0	0	2	0
+280	45	2	Oze's House	1	5	2	2	21
+281	44	2	Hill Path	0	0	0	2	0
+282	41	2	Behr Riverhead	1	0	1	2	18
+283	38	2	South Kaia Ferry	0	0	0	2	0
+284	38	2	Catfishman Camp	1	3	2	3	17
+285	38	2	Calpheon Castle Western Forest	0	0	0	3	0
+286	38	2	Lake Kaia	1	2	1	3	17
+287	39	2	Lumberjack's Rest Area	0	0	0	2	0
+288	39	2	Tobare's Cabin	1	5	1	2	17
+289	39	2	Mansha Forest	1	4	3	2	17
+290	42	2	Longleaf Tree Sentry Post	1	3	1	2	18
+291	40	2	North Kaia Ferry	0	0	0	2	0
+292	40	2	Phoniel's Cabin	1	1	2	2	18
+293	40	2	Phoniel's Cabin Entrance	0	0	0	2	0
+294	43	2	Rhua Tree Stub	1	5	1	2	19
+295	43	2	Behr Downstream	1	4	1	2	19
+296	43	2	Marie Cave	1	2	2	2	19
+297	43	2	Witch's Chapel	1	3	1	2	19
+298	31	2	Calpheon Plain	0	0	0	2	0
+299	42	2	Crioville	1	4	2	2	18
+300	31	2	Gabino Farm	0	0	0	2	0
+301	31	2	Calpheon Market	0	0	0	2	0
+302	39	2	Abandoned Monastery	0	0	0	2	0
+303	42	2	Kzarka Shrine	0	0	0	2	0
+304	42	2	Longleaf Tree Forest Cave	0	0	0	2	0
+305	44	2	Glutoni Cave	0	0	0	2	0
+306	45	2	North Quarry	0	0	0	2	0
+307	42	2	Secret Cave	0	0	0	2	0
+308	22	1	Southern Mountain Range	0	0	0	2	0
+309	36	2	Balenos Mountains	0	0	0	2	0
+310	31	2	Capital of Calpheon	0	0	0	0	0
+311	31	2	Capital of Calpheon	0	0	0	0	0
+312	31	2	Capital of Calpheon	0	0	0	0	0
+313	34	2	Bernianto Farm	0	0	0	2	0
+314	42	2	Longleaf Tree Forest	1	2	1	2	18
+315	44	2	Keplan Extraction Mill	0	0	0	2	0
+316	37	2	Epheria Bay	0	0	0	2	0
+317	42	2	Kzarka Shrine	0	0	0	2	0
+318	21	1	Moretti Plantation	0	0	0	2	0
+319	34	2	Northern Wheat Plantation	0	0	0	2	0
+320	1	0	Velia Duel Arena	0	0	0	6	0
+321	11	1	Heidel Duel Arena	0	0	0	6	0
+322	31	2	Calpheon Duel Arena	0	0	0	6	0
+323	1	0	Balenos Sea	0	0	0	2	0
+324	37	2	Epheria Sea	0	0	0	2	0
+325	31	2	Marni Farm Ruins	0	0	0	2	0
+326	6	0	Serene Spring	0	0	0	2	0
+327	52	3	Sausan Garrison	1	2	1	2	22
+328	52	3	The Mausoleum	0	0	0	2	0
+329	51	3	Sarma Outpost	1	0	3	2	22
+330	55	3	Marni's 2nd Lab	1	3	1	2	25
+331	55	3	Abun Outpost	0	0	0	2	0
+332	53	3	Helms Post	1	4	1	2	23
+333	53	3	Ancient Fissure	0	0	0	2	0
+334	53	3	Ancient Ruins Excavation Site	1	3	1	2	23
+335	53	3	Shuri Farm	0	0	0	2	0
+336	54	3	Ahto Farm	1	4	1	2	24
+337	53	3	Elric Shrine	1	2	2	2	23
+338	51	3	Kusha	1	5	1	2	22
+339	54	3	Kasula Farm	1	5	1	2	25
+340	54	3	Wuxi Farm Ruins	0	0	0	2	0
+341	52	3	Mediah Northern Gateway	1	1	2	2	22
+342	55	3	Altinova Entrance	0	0	0	2	0
+343	62	0	Wolf Hills	1	2	1	2	9
+344	62	0	Balenos River Mouth	1	1	1	2	9
+345	64	0	Mask Owl's Forest	1	2	2	2	10
+346	61	0	Olvia Foothills	0	0	0	2	0
+347	64	0	Epheria Ridge	1	3	1	2	10
+348	61	0	Olvia Hill	0	0	0	2	0
+349	61	0	Casta Farm	1	3	1	2	9
+350	61	0	Wale Farm	1	5	1	2	9
+351	63	0	Florin Gateway	1	5	2	2	10
+352	101	0	Balenos Islands	0	0	0	2	0
+353	102	0	Seas of Nox	0	0	0	2	0
+354	103	0	Seas of Olvia	0	0	0	2	0
+355	104	0	Cron Islands	0	0	0	2	0
+356	105	0	Seas of Arusha	0	0	0	2	0
+357	106	2	Seas of Epheria	0	0	0	2	0
+358	107	2	Seas of Ahrmo	0	0	0	2	0
+359	108	2	Seas of Peyon	0	0	0	2	0
+360	112	2	Seas of Banto	0	0	0	2	0
+361	112	2	Zenato Sea Area	0	0	0	2	0
+362	51	3	Seas of Mediah	0	0	0	3	0
+363	55	3	Seas of Altinova	0	0	0	2	0
+364	101	0	Marlene Island	0	0	0	2	0
+365	101	0	Balvege Island	0	0	0	2	0
+366	101	0	Angie Island	0	0	0	2	0
+367	101	0	Duch Island	0	0	0	2	0
+368	101	0	Eveto Island	0	0	0	2	0
+369	101	0	Luivano Island	0	0	0	2	0
+370	101	0	Fribancy Island	0	0	0	2	0
+371	101	0	Mariveno Island	0	0	0	2	0
+372	101	0	Ephde Rune Island	0	0	0	2	0
+373	102	0	Invernen Island	0	0	0	2	0
+374	102	0	Tulu Island	0	0	0	2	0
+375	102	0	Orffs Island	0	0	0	2	0
+376	102	0	Tashu Island	0	0	0	2	0
+377	104	0	Baremi Island	0	0	0	2	0
+378	104	0	Weita Island	0	0	0	2	0
+379	104	0	Paratama Island	0	0	0	2	0
+380	104	0	Kanvera Island	0	0	0	2	0
+381	104	0	Arakil Island	0	0	0	2	0
+382	111	3	Beiruwa Island	0	0	0	2	0
+383	111	3	Taramura Island	0	0	0	2	0
+384	111	3	Ostra Island	0	0	0	2	0
+385	111	3	Delinghart Island	0	0	0	2	0
+386	111	3	Pilava Island	0	0	0	2	0
+387	105	0	Racid Island	0	0	0	2	0
+388	105	0	Al-Naha Island	0	0	0	2	0
+389	105	0	Ajir Island	0	0	0	2	0
+390	105	0	Pujara Island	0	0	0	2	0
+391	103	0	Lisz Island	0	0	0	2	0
+392	103	0	Narvo Island	0	0	0	2	0
+393	103	0	Marka Island	0	0	0	2	0
+394	103	0	Louruve Island	0	0	0	2	0
+395	103	0	Staren Island	0	0	0	2	0
+396	106	2	Randis Island	0	0	0	2	0
+397	106	2	Serca Island	0	0	0	2	0
+398	107	2	Daton Island	0	0	0	2	0
+399	107	2	Netnume Island	0	0	0	2	0
+400	107	2	Oben Island	0	0	0	2	0
+401	107	2	Eberdeen Island	0	0	0	2	0
+402	107	2	Dunde Island	0	0	0	2	0
+403	107	2	Albresser Island	0	0	0	2	0
+404	107	2	Barater Island	0	0	0	2	0
+405	107	2	Ginburrey Island	0	0	0	2	0
+406	108	2	Rameda Island	0	0	0	2	0
+407	108	2	Theonil Island	0	0	0	2	0
+408	108	2	Modric Island	0	0	0	2	0
+409	108	2	Baeza Island	0	0	0	2	0
+410	108	2	Teyamal Island	0	0	0	2	0
+411	54	3	Highland Junction	0	0	0	2	0
+412	51	3	Mediah Shore	0	0	0	3	0
+413	54	3	Omar Lava Cave	0	0	0	2	0
+414	56	3	Splashing Point	1	4	3	2	25
+415	52	3	Sausan Garrison Wharf	0	0	0	2	0
+416	51	3	Racetrack	0	0	0	2	0
+417	53	3	Soldier's Grave	1	5	2	2	26
+418	214	4	Gavinya Great Crator	1	2	1	2	33
+419	214	4	Gavinya Coastal Cliff	1	5	1	2	33
+420	214	4	Roud Sulfur Works	1	3	2	2	33
+421	215	4	Ivory Wasteland	1	1	2	2	33
+422	215	4	Ivero Cliff	1	4	1	2	33
+423	212	4	Valencia Sea Area	0	0	0	2	0
+424	202	4	Rohan's Villa	0	0	0	2	0
+425	202	4	Inaha's Villa	0	0	0	2	0
+426	202	4	Atosa's Villa	0	0	0	2	0
+427	202	4	Dudora's Villa	0	0	0	2	0
+428	202	4	Oberin's Villa	0	0	0	2	0
+429	213	4	Dona Rocky Mountain	0	0	0	2	0
+430	212	4	Hakoven Island	0	0	0	2	0
+431	204	4	Kutum Stone Chamber	0	0	0	2	0
+501	64	0	Epheria Ridge	0	0	0	2	0
+502	62	0	Balenos River Mouth	0	0	0	2	0
+503	63	0	Olvia Coast	0	0	0	2	0
+504	63	0	Thermian Cliff	0	0	0	2	0
+505	64	0	Cliff Road	0	0	0	2	0
+506	18	1	Western Cliff	0	0	0	2	0
+507	24	1	Central Neutral Zone	0	0	0	2	0
+508	17	1	Southern Neutral Zone	0	0	0	2	0
+509	15	1	Northern Neutral Zone	0	0	0	2	0
+510	13	1	King Forest	0	0	0	2	0
+511	16	1	Demi Riverbank	0	0	0	2	0
+512	19	1	Naga Marsh	0	0	0	2	0
+513	20	1	Fogan Marsh	0	0	0	2	0
+514	18	1	Southern Mountain Range	0	0	0	2	0
+515	40	2	North Kaia Mountain	0	0	0	2	0
+516	37	2	Epheria Valley	0	0	0	2	0
+517	37	2	Abandoned Land	0	0	0	2	0
+518	36	2	Quint Hill	0	0	0	2	0
+519	34	2	Northern Wheat Plantation	0	0	0	2	0
+520	34	2	Bree Tree Ruins	0	0	0	2	0
+521	33	2	Old Dandelion	0	0	0	2	0
+522	39	2	Treant Forest	0	0	0	2	0
+523	39	2	Mansha Forest	0	0	0	2	0
+524	42	2	Longleaf Tree Forest	0	0	0	2	0
+525	43	2	Hexe Sanctuary	0	0	0	2	0
+526	44	2	Marni's Lab	0	0	0	2	0
+527	44	2	Riverside Farm	0	0	0	2	0
+528	44	2	Saunil Camp	0	0	0	2	0
+529	44	2	Hill Path	0	0	0	2	0
+530	45	2	North Abandoned Quarry	0	0	0	2	0
+531	46	2	Primal Giant Post	0	0	0	2	0
+532	46	2	Keplan Hill	0	0	0	2	0
+533	52	3	Mediah Northern Highlands	0	0	0	2	0
+534	53	3	Rumbling Land	0	0	0	2	0
+535	51	3	Mediah Shore	0	0	0	3	0
+536	54	3	Asula Highland	0	0	0	2	0
+537	56	3	Abandoned Iron Mine	0	0	0	2	0
+538	39	2	Abandoned Monastery Cave	0	0	0	2	0
+539	42	2	Kzarka Shrine Cave	0	0	0	2	0
+540	51	3	Mediah Castle	0	0	0	5	0
+541	111	3	Sausan Islands	0	0	0	2	0
+542	55	3	Marni's 2nd Lab Basement Cellar	0	0	0	2	0
+543	53	3	Secret Cave	0	0	0	2	0
+544	51	3	Secret Cave	0	0	0	2	0
+545	56	3	Secret Cave	0	0	0	2	0
+546	53	3	Secret Cave	0	0	0	2	0
+547	53	3	Secret Cave	0	0	0	2	0
+548	52	3	Secret Cave	0	0	0	2	0
+549	53	3	Secret Cave	0	0	0	2	0
+550	53	3	Secret Cave	0	0	0	2	0
+551	55	3	Ruins Cave	0	0	0	2	0
+552	58	3	Hasrah Ancient Ruins	0	0	0	2	0
+553	51	3	Mediah Castle	0	0	0	2	0
+554	54	3	Omar Lava Cave	0	0	0	2	0
+555	56	3	Abandoned Iron Mine Rhutum District	0	0	0	2	0
+556	56	3	Abandoned Iron Mine Saunil District	0	0	0	2	0
+557	56	3	Abandoned Iron Mine Entrance	0	0	0	2	0
+558	54	3	Awakening Bell	1	5	3	2	24
+559	53	3	Evergat Falls	0	0	0	2	0
+560	55	3	Altinova Arena	0	0	0	6	0
+561	31	2	Dias Farm	0	0	0	2	0
+562	112	2	Kuit Islands	0	0	0	2	0
+563	112	2	Almai Island	0	0	0	2	0
+564	112	2	Padix Island	0	0	0	2	0
+565	112	2	Teste Island	0	0	0	2	0
+566	112	2	Arita Island	0	0	0	2	0
+567	58	3	Abandoned Mine	0	0	0	2	0
+568	112	2	Cox Pirates' Lair	0	0	0	2	0
+569	110	0	Eltro Sea	0	0	0	2	0
+570	110	0	Tinberra Island	0	0	0	2	0
+571	110	0	Lerao Island	0	0	0	2	0
+572	110	0	Portanen Island	0	0	0	2	0
+573	110	0	Shasha Island	0	0	0	2	0
+574	110	0	Rosevan Island	0	0	0	2	0
+575	110	0	Feltron Island	0	0	0	2	0
+576	55	3	Altinova Arena Waiting Room	0	0	0	6	0
+577	203	4	Rock Post	1	0	3	2	27
+578	203	4	Gorgo Rock Area	1	2	2	2	27
+579	209	4	Cadry Ruins	1	4	2	2	27
+580	203	4	Veteran's Canyon	1	3	1	2	27
+581	209	4	Kunid's Shelter	0	0	0	2	0
+582	205	4	Western Plateau of Valencia	1	1	1	2	32
+583	209	4	Leical Grand Canyon	0	0	0	2	0
+584	203	4	Pila Fe	0	0	0	2	0
+585	210	4	Pujiya Canyon	1	1	1	2	28
+586	210	4	Waragon Nest	1	3	1	2	28
+587	203	4	Rock Post	0	0	0	2	0
+588	0	4	Kuzas Inner Harbor	0	0	0	2	0
+589	204	4	Kisleev Crag	0	0	0	2	0
+590	204	4	Shakatu's Territory	0	0	0	2	0
+591	204	4	Yalt Canyon	0	0	0	2	0
+592	204	4	Kmach Canyon	0	0	0	2	0
+593	204	4	Ruined Rune	1	5	1	2	27
+594	204	4	Rune Gateway Fork	0	0	0	2	0
+595	209	4	Leical Falls	0	0	0	2	0
+596	205	4	Capotia	1	0	2	2	28
+597	211	4	Al Halam Sea	0	0	0	2	0
+598	205	4	Grieving Grave	1	5	1	2	29
+599	205	4	Valencia Southwestern Mountains	0	0	0	2	0
+600	0	4	Talid Plain	0	0	0	2	0
+601	204	4	Shakatu	0	0	0	0	0
+602	204	4	Hope Ferry	0	0	0	2	0
+603	204	4	Gahaz Bandit's Lair	0	0	0	2	0
+604	204	4	Bambu Valley	0	0	0	2	0
+605	205	4	Sand Grain Bazaar	0	0	0	0	0
+606	0	4	Closed Dungeon	0	0	0	2	0
+607	205	4	Desert Naga Temple	1	2	1	2	29
+608	206	4	Ibellab Oasis	1	0	3	2	29
+609	206	4	Pilgrim's Sanctum: Obedience	1	3	1	2	30
+610	206	4	Pilgrim's Sanctum: Abstinence	1	4	1	2	29
+611	206	4	Pilgrim's Sanctum: Sharing	0	0	0	2	0
+612	206	4	Pilgrim's Sanctum: Sincerity	1	4	1	2	32
+613	206	4	Pilgrim's Sanctum: Humility	1	5	1	2	32
+614	206	4	Pilgrim's Sanctum: Purity	0	0	0	2	0
+615	206	4	Pilgrim's Sanctum: Fast	1	0	1	2	31
+616	202	4	Rakshan Observatory	1	5	1	2	30
+617	202	4	Valencia Castle	0	0	0	5	0
+618	206	4	Aakman	1	3	2	2	32
+619	202	4	Ancado Inner Harbor	0	0	0	0	0
+620	202	4	Katan Military	0	0	0	2	0
+621	202	4	Ruba Gateway	0	0	0	2	0
+622	207	4	Crescent Shrine	1	0	2	2	32
+623	208	4	Titium Valley	0	0	0	2	0
+624	0	4	Ancient Dungeon (Temporary)	0	0	0	2	0
+625	207	4	Crescent Mountains	1	2	1	2	32
+626	204	4	Iris Canyon	0	0	0	2	0
+627	203	4	Altinova Gate	0	0	0	2	0
+628	0	4	Rock Post (NONE)	0	0	0	2	0
+629	203	4	Pila Fe	0	0	0	2	0
+630	203	4	Gorgo Rock Area	0	0	0	2	0
+631	209	4	Cadry Ruins	0	0	0	2	0
+632	203	4	Basilisk's Lair	0	0	0	2	0
+633	205	4	Barhan Gateway	1	5	3	2	28
+634	209	4	Abandoned Ferry	0	0	0	2	0
+635	209	4	Expedition Camp	0	0	0	2	0
+636	205	4	Bazaar Farmland	0	0	0	2	0
+637	204	4	Shakatu Farmland	0	0	0	2	0
+638	202	4	Altas Farmland	1	2	1	2	30
+639	202	4	Erdal Farm	1	4	1	2	31
+640	202	4	Valencia Plantation	1	3	1	2	31
+641	202	4	Fohalam Farm	1	5	1	2	31
+642	209	4	Kunid's Villa	0	0	0	2	0
+643	203	4	Karashu's Villa	0	0	0	2	0
+644	210	4	Amir's Villa	0	0	0	2	0
+646	204	4	Shakatu's Villa	0	0	0	2	0
+647	204	4	Alsabi's Villa	0	0	0	2	0
+648	204	4	Muna's Villa	0	0	0	2	0
+649	204	4	Gahaz's Villa	0	0	0	2	0
+650	202	4	Inaha's Villa	0	0	0	2	0
+651	202	4	Talia's Villa	0	0	0	2	0
+652	202	4	Kiyak's Villa	0	0	0	2	0
+653	202	4	Tasaila's Villa	0	0	0	2	0
+654	202	4	Shandi's Villa	0	0	0	2	0
+655	203	4	Basilisk Cave	0	0	0	2	0
+656	204	4	Hope Ferry Coastal Cave	0	0	0	2	0
+657	203	4	Centaurus Cave	0	0	0	2	0
+658	202	4	Caphras Secret Base	0	0	0	2	0
+659	202	4	Valencia Castle Ancient Ruins Cave	0	0	0	5	0
+660	202	4	Desert Cave	0	0	0	2	0
+661	0	4	Palm Tree Forest	0	0	0	2	0
+662	211	4	Sokota Island	0	0	0	2	0
+663	211	4	Riyed Island	0	0	0	2	0
+664	211	4	Esfah Island	0	0	0	2	0
+665	211	4	Tigris Island	0	0	0	2	0
+666	211	4	Shirna Island	0	0	0	2	0
+667	211	4	Halmad Island	0	0	0	2	0
+668	211	4	Kashuma Island	0	0	0	2	0
+669	211	4	Orisha Island	0	0	0	2	0
+671	211	4	Boa Island	0	0	0	2	0
+672	202	4	Valencia Arena	0	0	0	6	0
+673	202	4	Valencia Castle Site	1	1	3	3	31
+674	210	4	Pujiya Canyon	0	0	0	2	0
+675	204	4	Kisleev Crag	0	0	0	2	0
+676	204	4	Shakatu's Territory	0	0	0	2	0
+677	204	4	Yalt Canyon	0	0	0	2	0
+678	204	4	Gahaz Bandit's Lair	0	0	0	2	0
+679	202	4	Dreaming Oasis	0	0	0	2	0
+680	202	4	Oasis of Time	0	0	0	2	0
+681	202	4	Oasis of Bless	0	0	0	2	0
+682	202	4	Ancado Coast	1	0	3	2	30
+683	203	4	Rock Post	0	0	0	2	0
+684	202	4	Outer Valencia City	0	0	0	2	0
+685	202	4	Derko Island	0	0	0	2	0
+686	214	4	Gavinya Volcano Zone	1	0	2	2	33
+687	204	4	Abandoned Ferry in Shakatu	0	0	0	2	0
+688	213	4	Aakman Temple	0	0	0	2	0
+689	213	4	Hystria Ruins	0	0	0	2	0
+690	214	4	Roud Sulfur Mine	0	0	0	2	0
+691	213	4	Pila Ku Jail	0	0	0	2	0
+692	212	4	Areha Palm Forest	0	0	0	2	0
+693	212	4	Arehaza Town	0	0	0	0	0
+694	213	4	Muiquun	0	0	0	0	0
+695	213	4	Central Cantusa	0	0	0	2	0
+696	213	4	Cantusa Desert	0	0	0	2	0
+697	214	4	Criminal Camp	0	0	0	2	0
+698	213	4	Northern Sand Hill	0	0	0	2	0
+699	0	4	Southern Sand Dune	0	0	0	2	0
+701	0	2	Magoria	0	0	0	2	0
+800	55	3	Red Battlefield	0	0	0	2	0
+801	55	3	Karmasilvia	0	0	0	2	0
+802	0	4	Ocean	0	0	0	2	0
+803	0	4	Ocean	0	0	0	2	0
+804	0	4	Ocean	0	0	0	2	0
+805	0	4	Juur Sea Area	0	0	0	2	0
+806	0	4	Vadabin Sea Area	0	0	0	2	0
+820	0	4	Kingdom of Haso	0	0	0	2	0
+821	0	4	Port Ratt	0	0	0	2	0
